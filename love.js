@@ -634,21 +634,101 @@ I recently lost my girlfriend. We were together for 6 full years. I wanted to wr
     "t": "longing"
   },
   {
-    "c": ``, 
-    "v": "LIQz6zZi7R0",
-    "s": "Cornerstone – Arctic Monkeys",
+    "c": `It reminds me of my recent ex, my first love, my dad who lives in another country, my friends, beautiful moments, painting/drawing, running or doing other sports, happy memories, sad memories, ... The list can go on. But most of all it reminds me of how unique each life is, how unique I am as a person, or how unique others are as a person.`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
     "t": "longing"
   },
   {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
+    "c": `Kissed her in high school. Never forgot the feeling. Didn't see her for six years. She reappeared, visiting our hometown. I kissed her again, and it felt the same as it did years ago. We spent one night together, and the way the light came in across her face through the slats in the blinds and the way dust motes danced around her in the morning is still the most beautiful thing I've ever seen. It pains me to think I may never see her in my life again, but this song reminds me of those twenty four beautiful, perfect hours.`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
     "t": "longing"
   },
   {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
+    "c": `Deployed right now... Imagining holding my 3 year old daughter and dancing with her... she's perfect.`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
+    "t": "longing"
+  },
+  {
+    "c": `Please God, I don't want to fail again. Please listen to me just this once. Please give me the strength to complete what I have  begun.`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
+    "t": "longing"
+  },
+  {
+    "c": `This song was played at a concert that I attended with someone that I just ended a relationship of one year to the love of my life. She was my first in more ways than just intimacy and she was one of the most amazing, interesting, beautiful women I have ever met, I mean truly gorgeous. We clicked so well and had amazing chemistry and I am really gonna miss her, but she just could not envision me as a husband and we could no longer fight the facts. There were other issues and I did have some shortcomings but ultimately I realized after the breakup that you cant force a relationship and you and the other person deserve to be with someone who can see that future with each other. It doesn't mean they didn't care or didn't love you or didn't try. It just means they were not your person and vice versa. There will be that one in your life you loved more than anything but just because the feelings are there does not fix the underlying problems which we did try and work on.  I will always think of her and love her as a person with all my heart and I hope she lives a great life and maybe one day we will meet again in this life or the next.`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
+    "t": "longing"
+  },
+  {
+    "c": `One of my best friends, when he got married. This was the song he choose when he stood waiting waiting for his wife to reach the end of the  aisle. This is the memory I get when I hear this song. I cried like a baby because I was so happy for them. I blame this song for helping setting a perfect mood for a happy occasion. 👌`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
+    "t": "longing"
+  },
+  {
+    "c": `In case you are here to find a message from Universe: go to anybody who you love even though it might be the worst idea and tell them.`, 
+    "v": "DBQWF35bqDQ",
+    "s": "WE Might Be Dead By Tomorrow – Soko",
+    "t": "longing"
+  },
+  {
+    "c": `My mom's friend passed away of lung cancer during the spring. This song makes me think of her. We might not have had too many memories together, but the one's we did have were very great. I never got to see her before she passed.`, 
+    "v": "DBQWF35bqDQ",
+    "s": "WE Might Be Dead By Tomorrow – Soko",
+    "t": "longing"
+  },
+  {
+    "c": `This song is for the one I love, for that one friend i hope I'll stay with forever and for the people i haven't met yet`, 
+    "v": "DBQWF35bqDQ",
+    "s": "WE Might Be Dead By Tomorrow – Soko",
+    "t": "longing"
+  },
+  {
+    "c": `This song hits different now. I lost my grandmother to COVID. I lost my grandmother without saying goodbye, and my mother lost her mother without saying goodbye.`, 
+    "v": "DBQWF35bqDQ",
+    "s": "WE Might Be Dead By Tomorrow – Soko",
+    "t": "longing"
+  },
+  {
+    "c": `I cannot love someone as that, even if I thought I can. People who can love back to their lover, are really deserve to be loved.`, 
+    "v": "DBQWF35bqDQ",
+    "s": "WE Might Be Dead By Tomorrow – Soko",
+    "t": "longing"
+  },
+  {
+    "c": `Love is all that matters`, 
+    "v": "DBQWF35bqDQ",
+    "s": "WE Might Be Dead By Tomorrow – Soko",
+    "t": "longing"
+  },
+  {
+    "c": `I wish I could tell him I love him.`, 
+    "v": "NZlXwPb_JPM",
+    "s": "Bluish – Animal Collective",
+    "t": "longing"
+  },
+  {
+    "c": `shoutout to my ex for ruining this song for me
+
+EDIT: I have come to realize that she did not “ruin this song for me” like I wrote. She actually gave so much more meaning to this than I initially understood. Because, I have so many feelings tied to this song, it was hard to relinquish those feelings while I listened to it. Now, with more clarity, I can just enjoy it the same as when I did with her. I have many other songs that remind me of people, this is one of the stronger more surface level ones that resonate the clearest. ... anyway, just enjoy the song. Peace.`, 
+    "v": "NZlXwPb_JPM",
+    "s": "Bluish – Animal Collective",
+    "t": "longing"
+  },
+  {
+    "c": `I got lost in her curls and now my world shimmers and glows with love.`, 
+    "v": "NZlXwPb_JPM",
+    "s": "Bluish – Animal Collective",
+    "t": "longing"
+  },
+  {
+    "c": `This sounds like what love feels like.`, 
+    "v": "NZlXwPb_JPM",
+    "s": "Bluish – Animal Collective",
     "t": "longing"
   },
   {
