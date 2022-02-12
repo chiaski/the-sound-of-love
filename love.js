@@ -59,6 +59,12 @@ I wonder if she misses me as much as I miss her.`,
     "v": "Rel8ZWkNNlM",
     "s": "Pictures of You – The Cure",
     "t": "heartbreak"
+  }, 
+  {
+    "c": `The same guy who has loved me since I was 16 years old dedicated this song to me. I'm 43 now and no one will ever love me or understand me the way he does.`, 
+    "v": "Rel8ZWkNNlM",
+    "s": "Pictures of You – The Cure",
+    "t": "heartbreak"
   },  
   {
     "c": `You gave every song to me, then you gave the same songs to another. But hey: from life, you want to make alot of money and feel dead inside. Bon courage, c***.`, 
@@ -239,11 +245,172 @@ Despite us living our separate lives now, I’ll still come back and listen to t
     "t": "longing"
   },
   {
+    "c": `This song crushes me... 
+My friend wherever he is, I hope to see him again. The last time I waited to see him was 7 long years, now that we are both adults I can't simply handle not seeing him for months. All we had was a small kiss to the cheek and what followed right after was just a lovely feeling of intimacy and affection over one another. That week I felt noticed and important for someone. Those days were months ago and he disappeared off of the map. The only thing I can do is hope to see him...`, 
+    "v": "pBMwwJMkcRA",
+    "s": "The Predatory Wasp Of The Palisades Is Out To Get Us! – Sufjan Stevens",
+    "t": "longing"
+  },
+  {
+    "c": `I remember the first time I heard this song. A dear friend, a Missionary from The Church of Jesus Christ, told me I would love it. 
+
+That was a glorious time, and we were sharing what could be described as a childhood in shared rebirth. "Lamb of God, we sound the horn, to us your Ghost is born" moved me and made me aware of how much I love the verse, "For unto us a child is born, unto us a Son is given", and now I love this song.`, 
+    "v": "pBMwwJMkcRA",
+    "s": "The Predatory Wasp Of The Palisades Is Out To Get Us! – Sufjan Stevens",
+    "t": "longing"
+  },
+  {
+    "c": `We were in love indeed, so sad what happened between me and him, we were best friends, a little bit of miss understanding, and that was it. I'll never forget that beautiful days we spent together. It's like finally finding your half missing soul, only to lose it in one month period.
+Feels horrible. 
+This song (aside from the gay part) describes it all..`, 
+    "v": "pBMwwJMkcRA",
+    "s": "The Predatory Wasp Of The Palisades Is Out To Get Us! – Sufjan Stevens",
+    "t": "longing"
+  },
+  {
+    "c": `You're gone now, but your love will exist infinitely through this song. We are in love somewhere in the past, whispering to each other, forever in love. `, 
+    "v": "pBMwwJMkcRA",
+    "s": "The Predatory Wasp Of The Palisades Is Out To Get Us! – Sufjan Stevens",
+    "t": "longing"
+  },
+  {
+    "c": `In 2015 I had a close friend and pretty much we share similar interests. We often show each other newfound songs and movies. He had a bad childhood trauma and sadly didn't tell me about it, probably afraid or for any other unknown reasons. But he told his past to a girl he was being close and in the end the girl didn't want to see or talk to him anymore.
+
+All of this and the past trauma brought him to end his own life, and since it's too sudden I can't really processed anything and just ask myself, "Why?"
+
+I kept some of his personal belongings and one of them is his notebook.
+He wrote the lyrics to this song. It's quite weird since I thought the lyrics sounds gay (not insulting, I'm not straight too but not into gay relationship). I didn't even bother looking for the song in google, afraid of the emotional surge and all.
+2018 and watched Call Me By Your Name and got caught by Sufjan's songs (yeah I know it's too late) and search his other songs on youtube and realized one of them is this song, the one that my friend wrote on his notebook (lyrics on notebook didn't mention Sufjan's name and only had the second part of the song). 
+
+Some times I wish my friend wrote the lyrics for me, but weirdly he never made me listen to this song, probably afraid of being labeled as gay. I never had problem with gay people and he knew it too.
+
+So for now I always thought of him whenever I heard or played this song. Sufjan Stevens is a genius and I'm glad I live in the same time as his works.
+
+And for you Silly Wabbit, happy 34th birthday. I hope you are happy wherever you are.
+I love you.
+
+P.S. Sorry for bad English. I feel better now, but still mad at my friend for leaving this world to me. Can't really get mad cause I really like him. It's quite saddening that soul mates can only be together for a brief period of time. 
+Whoever read this I hope you're living a happy life too. Live the moment. Believe in your close friend. Tell them you love them.`, 
+    "v": "pBMwwJMkcRA",
+    "s": "The Predatory Wasp Of The Palisades Is Out To Get Us! – Sufjan Stevens",
+    "t": "longing"
+  },
+  {
+    "c": `I remember the first time I heard this song.  I was in the car with my ex and this song resonated with me so much.  To the point of tears.  I looked over at my ex and they didn’t even respond.  They actually hated the song and it was at that moment when I realized that we were never meant to be.  That they would never follow me into the dark.  Flash forward to 4 years later, and I had a first date with someone very special to me. We went to a bar and they had karaoke.  Wouldn’t you know, this was the song he had chosen to sing!  That special someone is my now husband and we’re expecting our first child in May! So don’t give up hope! There is someone for you!`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `Almost 8 years since my best friend committed suicide, we sang this together a lot, it made sense since we had a suicide pact that if they other killed themselves than we would follow suit, working ad a deterant, i guess one day the demons got to loud and she took her own life, i tried to follow suit and swollowed all my sleeping pills, but i was found seizing on the floor by my mother who heard me, and i was rushed to the hospital i had my stomach pumped and was stabalized, and i was sent to a metal health institution, i was blaming myself for not being able to follow her and that i had made a promise, i took me 5 years for my counsellor to get it through to me that if i had followed through with the pact, then i would have broken the very spirit that the pact was formed on, she wanted me to live and if i had killed myself then i would be betraying her. That was a hard pill to swallow, im still not in a good place but i have go forge on, to keep her memory alive, her mom finally cleaned out her room, and she sent me a bunch of the love letters that she had written me, honestly i didnt know she felt the same way, im still trying to force the thought that maybe if i had just told her how i felt, maybe we would be together and happy today, my heart still aches but ill keep going i have to. I love you elizabeth, and theres not a damn thing you can do about it..`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `i sing this song to my cat who is getting pretty old. i’ve lived my entire life with her, and i honestly love her more than anyone in the world. living without her won’t really be living.`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `my soulmate died a day before my birthday. he was in love with me, and it was the purest love anyone had ever given me. (i’ve only experienced toxic love before) which made me too afraid to allow myself to love him back. i didnt know how to accept such love im not used to. he always asked me to take a chance with him, and i always replied “im too afraid to lose you and i cant afford that” thing is, he never knew i was more afraid to love him than to lose him. but in losing him, i realized i’ve loved him. i loved him. i love him. but i never got to tell him that, i never got to tell him that when i asked him if he ever met someone he genuinely wanted to spend the rest of his life with that i hoped i’d be his answer because he was mine. he was someone i saw myself wanting to spend the rest of my life with... but now every year his death anniversary is a day before my birthday reminding me of how he never got to celebrate it with me like he said he would. hope when our souls reunite one day, i tell him how much i loved him. tell him i’m sorry that his last text msg was “please reply”, i’m sorry i watched my phone ring without picking up. i’m sorry that our last phone call was short. i’m sorry i didn’t hold him tighter the night that was our last. your soul is with me always. i carry you with me everywhere i go and no time would ever erase or replace you. you’re a part of me, and one day ill be able to tell you myself.
+
+he died in his sleep.
+
+rest your heart and soul in peace, my angel Hussam. until we meet again.`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `This song reminds me of my great grandparents, after 65 years of marriage and growing up together my grandmother went into the hospital for a routine checkup she suddenly had a stroke and ended up in palliative care and an hour later we were saying our goodbyes when my uncle wheeled in my grandfather he screaming at the top of his lungs that it was supposed to be him first and if his legs still worked he'd carry her through the gates of the holy land himself because it was what she deserved, it was the most heart breaking thing I have ever heard in my life he kept saying over and over that he loved her and after 65 years he had still loved her so very much since before they were kids, to this day I still hear him crying, she was completely unresponsive but when she passed she opened her eyes one last time and looked at him and he said he loved her and she was going to be ok and that he'd be there soon to take care of her like always then she closed her eyes and she just died, I had to grab her stuff and the sad thing is she had her money in her coat for the taxi ride home it happened so fast and so suddenly, my grandfather died a week later at the same time and same day she did, he waited for her funeral and the next day he just layed down and passed away, wherever they are now I hope there together and happy`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `I still miss you Mia, you were my best friend and my first love. If only I got the chance to tell you how I felt before you pulled the plug. I remember how you asked me to stay alive for you during my suicidal days because I felt a deep emptiness, that was nothing compared to what I felt when you passed. I promised myself to stay alive to keep your memory burning bright, and I do not think negatively of you, nor will call you a hypocrite. You were so optimistic and saw the bright side of everything. I hate your ex boyfriend that beat you, I hate your parents for always bickering and neglecting you, and I hate the pills that took you from this world. But I love you for the art of forgiveness you taught me. I lost you before you were mine and all I want to do is see your face again and hear your voice, but the world had different plans. Nevertheless I love you and I know I’ll see you again one day but I’m gonna keep going not just because of the promise but for myself as well. This life is here because of you, thank you. Until we meet again`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `My Aurora,
+
+Though we are both still alive, we are both unwell. There will come a time where one of us will pass and leave the other to carry on our legacy. This, our song, is what makes me believe that I will meet you again in the afterlife. That, though we may be separated for a short amount of time, I'll see you again. My arms are forever around you, holding you close. Though we may be sobbing, unstable humans, we are lovers. My soulmate, my Aurora, I love you so very much, and when the time dawns, I too will follow you into the dark.`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `Someone I considered really close to me and confided a lot in, walked away from my life. I am fully conscious of the fact that I made some mistakes but losing a friend that you invested so much into emotionally is hard. It's almost as if they take a part of you with them.
+
+The memories almost seem unreal, a lifetime away and sometimes even dreamy. `, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `This time of year is more sad than joyful as I remember the anniversaries of my parents' passing -- Mum passed 4 years ago; and Dad 2.
+
+On the drive home this evening, I heard this song on the radio. I almost had to pull over; such emotions welled to the surface.
+
+I miss Mum and Dad as much today as I did they day they passed. What I wouldn't give to hear one of Dad's jokes or taste some of Mum's cooking...
+
+just...
+
+one...
+
+more...
+
+time.`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `My fiance and I are going to use this as our first dance at our wedding in two months. I'm very sick and we honestly don't know how much more my body will take. But we aren't only using this song as a symbol of undying love. But also as undying sacrifice. A lot of bad luck has come my way and I always feel like if it wasn't for me, my fiancé would have a much better life. But he says I will always follow you into your darkest days and hardest hours. We have been through so much. We have been in the darkest part of our relationship, with sickness, job losses, pregnancy losses, and so much more. I have always loved this song, but I am so grateful that now there is so much meaning behind it for the both of us. `, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `RIP Dad. It's been almost three years but I still miss you. 
+I miss discussing obscure films and analyzing Floyd songs with you.
+I miss visiting the book-fair and messing around the stalls with you, hunting for books. I went last year with a friend, but it just wasn't the same.
+I wish you were there to see me get my first paycheck.
+
+I hope you're proud of the person I've become.`, 
+    "v": "NDHY1D0tKRA",
+    "s": "I Will Follow You Into The Dark – Death Cab For Cutie",
+    "t": "romantic"
+  },
+  {
+    "c": `i will never forget how you made me believe`, 
+    "v": "FWZrdB4RACQ",
+    "s": "Even Fantastica – Flotation Toy Warning",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
+  },
+  {
     "c": ``, 
     "v": "WMrU3f5QQR8",
     "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
     "t": "longing"
   }
+  
   
   
   
@@ -305,13 +472,33 @@ function thesoundof(r){
   $(this).text(love[r].c).fadeIn(2000);
 });
         
-  $("#player").css("opacity", 0);
+      $("#player").css("opacity", 0);
+      $("#cover").css("opacity", 1);
+  
       setTimeout(
         function() 
         {
+      $("#cover").css("opacity", 0);
       $("*").css("cursor", "pointer");
             $("#player").css("opacity", 1);
+      player.loadVideoById(love[r].v);
+          
+            if((love[r].c).length <= 80){
+    $("p.isaid").css("font-size", "2em");
+  } else if((love[r].c).length <= 400){
+    $("p.isaid").css("font-size", "1.6em");
+  } else if((love[r].c).length <= 1200){
+    $("p.isaid").css("font-size", "1.4em");
+  } else{
+    $("p.isaid").css("font-size", "1em");
+  }
+          
         }, 1500);
   
-  player.loadVideoById(love[r].v);
+  
+  // adjust font size based on length
+  console.log((love[r].c).length);
+  
+
+  
 }
