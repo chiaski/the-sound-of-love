@@ -1000,7 +1000,6 @@ $("body").click(function (e) {
       setTimeout(
         function () {
           $(".s").css("opacity", 1);
-          $("*").css("cursor", "pointer");
           $("#player").css("opacity", 1);
           $("body").css("pointer-events", "none !important");
           $("p.isaid").fadeIn(3000);
@@ -1031,6 +1030,7 @@ $("body").click(function (e) {
           $("p.isaid").text(love[r].c);
           player.loadVideoById(love[r].v);
           $("body").css("pointer-events", "auto");
+          $("*").css("cursor", "pointer");
         }, 4000);
 
     } else {
@@ -1064,7 +1064,6 @@ function thesoundof(r) {
 
   setTimeout(
     function () {
-      $("*").css("cursor", "pointer");
       $("#player").css("opacity", 1);
       player.loadVideoById(love[r].v);
 
@@ -1093,6 +1092,7 @@ function thesoundof(r) {
     function () {
       $("#cover").css("opacity", 0);
       $("body").css("pointer-events", "auto");
+      $("*").css("cursor", "pointer");
     }, 2500);
 
 
