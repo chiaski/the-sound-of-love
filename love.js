@@ -574,7 +574,7 @@ function thesoundof(r){
 });
   
   $("div._s").fadeOut(function() {
-  $(this).text(love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s).fadeIn(2000);
+  $(this).text(love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s +  " " + love[r].s +  " " + love[r].s +  " " + love[r].s).fadeIn(2000);
 });
   
         
