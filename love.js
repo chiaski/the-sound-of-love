@@ -1051,6 +1051,11 @@ $("body").click(function (e) {
 
 });
 
+$('body').keyup(function(e){
+   if(e.keyCode == 32){
+       $("#bw").toggle();
+   }
+});
 
 function thesoundof(r) {
   //  $(love[r].c).hide().prependTo("p.isaid").fadeIn(4000);

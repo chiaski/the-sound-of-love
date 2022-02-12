@@ -1,6 +1,19 @@
 body {
+  background: #fff;
   overflow: hidden;
   cursor: pointer;
+}
+
+#bw{
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background:#fff;
+  z-index: 999999999999;
+  mix-blend-mode: difference;
+  pointer-events: none;
+  display: none;
 }
 
 #cover {
@@ -62,7 +75,6 @@ body {
   height: 60vh;
   max-height: 800px;
   width: 100vw;
-  height: 100%;
   z-index: 99;
   /*  outline: 1px solid blue;*/
   pointer-events: none;
@@ -121,7 +133,7 @@ body {
 #msg .isaid {
   height: auto;
   margin-top: -.5em;
-  padding-top: 45px;
+  padding-top: 30px;
   white-space: pre-line;
   letter-spacing: -.5px;
   pointer-events: none;
