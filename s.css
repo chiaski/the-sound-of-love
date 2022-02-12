@@ -9,15 +9,15 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #fff;
-  z-index: 999;
+  z-index: 9999999;
   opacity: 0;
-  -webkit-transition: all 0.8s ease-in-out;
-  -moz-transition: all 0.8s ease-in-out;
-  -ms-transition: all 0.8s ease-in-out;
-  -o-transition: all 0.8s ease-in-out;
-  transition: all 0.8s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
   pointer-events: none;
+  background: #fff;
 }
 
 #player {
@@ -63,7 +63,7 @@ body {
   max-height: 800px;
   width: 100vw;
   height: 100%;
-  z-index: 0;
+  z-index: 99;
   /*  outline: 1px solid blue;*/
   pointer-events: none;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
@@ -105,14 +105,15 @@ body {
   text-align: center;
   padding: 0;
   margin: 0;
-  line-height: 90%;
+  line-height: 70%;
+  letter-spacing: -4px;
 }
 
 #msg .__intro p {
   font-size: .4em;
-  margin-top: -.5em;
   padding: 0;
   margin: 0;
+  margin-top: -1.5em;
   line-height: 90%;
 
 }
@@ -129,6 +130,7 @@ body {
 }
 
 #msg .__intro {
+  margin-top: 10vh;
   text-align: center;
 }
 
@@ -142,7 +144,8 @@ body {
 
   #msg,
   .grad {
-    font-size: 1.75em;
+    font-size: 1.9em;
+    line-height: 90%;
     height: 100vh;
     max-height: calc(80vh - 30vw);
   }
@@ -181,7 +184,7 @@ body {
   -o-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
   
-opacity: 0;
+  opacity: 0;
 }
 
 .s * {
