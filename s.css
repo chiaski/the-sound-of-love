@@ -26,7 +26,7 @@ transition: all 0.8s ease-in-out;
   margin-left: -250px;
   width: 500px;
   height: 500px;
-  z-index: 9;
+  z-index: 1;
   -webkit-transition: all 0.8s ease-in-out;
 -moz-transition: all 0.8s ease-in-out;
 -ms-transition: all 0.8s ease-in-out;
@@ -43,7 +43,9 @@ transition: all 0.8s ease-in-out;
   font-family: "Times New Roman";
   font-size: 2em;
   font-weight: normal;
+  
 }
+
 
 #msg h1{
   font-weight: normal;
@@ -58,7 +60,7 @@ transition: all 0.8s ease-in-out;
   max-height: 450px;
   width: 100vw;
   height: 100%;
-  z-index: 9;
+  z-index: 0;
 /*  outline: 1px solid blue;*/
   pointer-events: none;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
@@ -90,8 +92,9 @@ transition: all 0.8s ease-in-out;
 }
 
 #msg .__intro p{
+  margin-top: -.5em;
   padding: 0; margin: 0;
-  line-height: 100%;
+  line-height: 90%;
 }
 
 #msg .isaid{
@@ -109,12 +112,36 @@ transition: all 0.8s ease-in-out;
   text-align: center;
 }
 
-h1#s{
+
+  @media only screen and (max-width: 600px) {
+   
+    #msg, .grad{
+      font-size: 1.75em;
+      height: 100vh;
+      max-height: calc(80vh - 30vw);
+    }
+    
+    #player{
+      width: 80vw;
+      height: 80vw;
+      bottom: -30vw;
+      margin-left: -40vw;
+    }
+    
+  }
+
+
+#s{
   position: fixed;
+  left: 0;
   bottom: 0;
-  width: 100%;
+  width: 100vw;
+  z-index: 999;
+  background: #fff;
+  height: 40px;
   text-align: center;
-  padding: 2.5vw;
+  margin: 0;
+  box-sizing: border-box;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -123,6 +150,36 @@ h1#s{
   font-family: system-ui, 
              -apple-system, BlinkMacSystemFont;
 }
+
+/* MARQUEE */
+
+
+.marquee {
+  position: relative;
+  width: 100vw;
+  max-width: 100%;
+  height: 40px;
+  overflow-x: hidden;
+}
+
+
+.track {
+  padding: 2.5vw;
+  position: absolute;
+  white-space: nowrap;
+  will-change: transform;
+  animation: marquee 32s linear infinite;
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+
+
+/* SCROLLBAR */
+
 
 ::-webkit-scrollbar {
   width: 10px;

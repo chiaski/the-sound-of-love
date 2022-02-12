@@ -393,21 +393,117 @@ I hope you're proud of the person I've become.`,
     "t": "longing"
   },
   {
-    "c": ``, 
-    "v": "WMrU3f5QQR8",
-    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "c": `This Band was the love of my 23 year young son, who passed 3 weeks back in peace after a brave battle, now he is free and dancing so sweet in my house to this beautiful sound. There is no seperation, life is eternal and love is the source`, 
+    "v": "RBtlPT23PTM",
+    "s": "Space Song – Beach House",
     "t": "longing"
   },
   {
-    "c": ``, 
-    "v": "WMrU3f5QQR8",
-    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "c": `This song reminds me of my wife i had, i was born in 1979 and so was she, we lived next door to one another and known each other since we were born, we'd ride our bikes to school everyday together, basically sleep over at each others houses every night. In high school i asked her out, she screamed when i did and she started crying and i remember her saying "I've been waiting for you to ask, ive liked you since year 1". That night i drove her to the Drive Ins and we watched a movie. Counting Pre school and after high school and college we were together for over 35 years until 7 years ago she was diagnosed with stage 3 breast cancer, 6 months later she passed away while i was with her, i felt the coldness in her and it spread to me it sent goosebumps down my neck and the grip she had while holding my hand was lost and she whispered to me "thank you for all time we have had together". That night i cried and screamed so hard my body totally collapsed and i passed out. Today me and my kids listen to this song together (6) and (8) years old. I cry to sleep every night knowing that shes never coming back... I want to end it all meet her in heaven but i cant loose my kids and they cant lose me. Thank-you for this song everyday and almost every hour i listen to this and im reminded of her. I miss you Emma and I miss my soulmate, Emma I love you more then anything else in this universe and i wish you were still here with me.`, 
+    "v": "RBtlPT23PTM",
+    "s": "Space Song – Beach House",
     "t": "longing"
   },
   {
-    "c": ``, 
-    "v": "WMrU3f5QQR8",
-    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "c": `it makes me remember how much im loved. puts me back in place. makes me miss my dad who passed to covid. we werent close but i still loved him. and to this day miss him so much. i wish i could go back and fix things between us pops, i miss u, and i hope u know that i love you always`, 
+    "v": "RBtlPT23PTM",
+    "s": "Space Song – Beach House",
+    "t": "longing"
+  },
+  {
+    "c": `I knew a girl from all the way back in third grade. We were close to best friends, and whenever I saw her she cheered me up. A few years later, the pandemic hit. We didn’t stay in touch over the pandemic, and when we came back I was so happy to see her. It was awkward at first but eventually we became good friends again. Then I started to realize something incredible. I loved her. Seeing her made my heart beat faster, her smile made me feel warm inside. I finally got the courage to confess my feelings to her one day. That morning I wrote her a love letter, putting all of my feelings for her in the form of words. I decided to hand it to her with high hopes. However, I learned that day that she didn’t care about me. She threw the letter away before even reading it for a second. Our friendship, all the memories we made, they’re all gone. It felt like a knife through my heart, and now whenever I say or do anything it just ruins everything. I don’t think anyone cares about me at this point. And I feel so, so, lost. All those times I spent with her and my friends on the playground, all those times I smiled without a care in the world. Gone.`, 
+    "v": "RBtlPT23PTM",
+    "s": "Space Song – Beach House",
+    "t": "longing"
+  },
+  {
+    "c": `This song reminds me of a person who was close to me, we shared a lot of habits, one of which was messaging in a state of half sleep, we spoke our hearts out in that state, without a filter because the sleep would dull out all the anxiety and fear. We regularly spoke to each other on calls and slept while messaging each other. We had become more than friends but one day suddenly without any notice or even excuse they just distanced themselves from me. Suddenly it felt like the ground opened up under my feet and swallowed me whole. I asked them what happened where did I go wrong was it something I said and I always got the reply, I don't know but I just don't feel the same anymore. Humans change, I felt I never moved from that place untill I met my now wife, she really fills in the void, but I still can't forget that friend, that platonic love I had for her.`, 
+    "v": "RBtlPT23PTM",
+    "s": "Space Song – Beach House",
+    "t": "longing"
+  },
+  {
+    "c": `
+I love this song, even if it reminds me of how wrong a relationship can go… It’s  kinda sad, to realize you can be on somebody’s side, but still… there is no way in… or out of the woods together! The song is a master piece though. And just now, listening to it again, I can tell something about the song has changed. It feels different now…less sad. That’s so rewarding. Now I am actually glad things turned out the way they did… everything is perfect. My son was the biggest present. He shows me every day, what’s the real meaning of love.`, 
+    "v": "RBtlPT23PTM",
+    "s": "Space Song – Beach House",
+    "t": "longing"
+  },
+  {
+    "c": `I will never forget the day my boyfriend introduced this song to me, I still get the same vibe and gut feeling whenever I listen to this. Rest in peace Denis`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `Reminds me of this day I spent with an old friend of mine. The first time it was just her and me. We went on an adventure. She showed me her hometown, her old house, a field full of sunflowers. I won't forget it. Ever.`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `I broke up with this girl I really love.`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `thinking of a time when I had feelings for someone.`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `when i listen to this i think about the times when i thought i fell in love. we were giving obvious signs that we like each other but then something went wrong?? thinking about it now that's maybe even better that we didn't become lovers
+at least we are still friends.`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `I'm left to wonder if something, if anything, went wrong? I crave to see the moon high above the motorway again, a pale pink spreading slowly throughout the sky. To hear your words one more time.`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `I love you forever isiaha james, even if we never make it to the future together , you will always have my heart..🖤`, 
+    "v": "4Hg1zIAh3rc",
+    "s": "Reflections After Jane – The Clientele",
+    "t": "longing"
+  },
+  {
+    "c": `The girl said no and I didn't sleep for three nights. I put this album on repeat nursing beer after beer. Who was once my best friend I haven't spoken to in two years. 
+
+Don't you think we could pretend that friendships and love never end...?`, 
+    "v": "FaBnr-B2Xro",
+    "s": "Friendships And Love – Rocketship",
+    "t": "longing"
+  },
+  {
+    "c": `sitting in Union Station at the end of summer and realizing that everything is going to change very soon.`, 
+    "v": "FaBnr-B2Xro",
+    "s": "Friendships And Love – Rocketship",
+    "t": "longing"
+  },
+  {
+    "c": `I know its true...`, 
+    "v": "FaBnr-B2Xro",
+    "s": "Friendships And Love – Rocketship",
+    "t": "longing"
+  },
+  {
+    "c": `The girl said no and I didn't sleep for three nights. I put this album on repeat nursing beer after beer. Who was once my best friend I haven't spoken to in two years. 
+
+Don't you think we could pretend that friendships and love never end...?`, 
+    "v": "FaBnr-B2Xro",
+    "s": "Friendships And Love – Rocketship",
+    "t": "longing"
+  },
+  {
+    "c": `The child who are inside us haven't faded away. He got lost in this adult world where life is so serious. Imagine yourself in front of you when you were a child and hug you, find yourself and love life for all that you can always make of it. No longer look at the past because it no longer exists, do not look at the future because it has not yet happened. Love yourself and make your life a dream of love or whatever you wish comes true.`, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
     "t": "longing"
   }
   
@@ -441,6 +537,10 @@ $(document).click(function (e) {
       $("*").css("cursor", "pointer");
             $("#player").css("opacity", 1);
             $("p.isaid").fadeIn(3000);
+          
+  $("div._s").fadeOut(function() {
+  $(this).text(love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s).fadeIn(2000);
+});
         
             $("p.isaid").text(love[r].c);
             player.loadVideoById(love[r].v);
@@ -468,9 +568,15 @@ function thesoundof(r){
       $("*").css("cursor", "wait");
 //  $("p.isaid").fadeOut(1000);
 //  $("p.isaid").text(love[r].c);
+  
   $("p.isaid").fadeOut(function() {
   $(this).text(love[r].c).fadeIn(2000);
 });
+  
+  $("div._s").fadeOut(function() {
+  $(this).text(love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s).fadeIn(2000);
+});
+  
         
       $("#player").css("opacity", 0);
       $("#cover").css("opacity", 1);
@@ -483,7 +589,9 @@ function thesoundof(r){
             $("#player").css("opacity", 1);
       player.loadVideoById(love[r].v);
           
-            if((love[r].c).length <= 80){
+if((love[r].c).length <= 80){
+    $("p.isaid").css("font-size", "2.4em");
+}else if((love[r].c).length <= 80){
     $("p.isaid").css("font-size", "2em");
   } else if((love[r].c).length <= 400){
     $("p.isaid").css("font-size", "1.6em");
