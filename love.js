@@ -203,6 +203,46 @@ be happy with me pls
     "v": "WMrU3f5QQR8",
     "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
     "t": "romantic"
+  },
+  {
+    "c": `This song reminds me of the boy I wish I could of have. He liked me a lot and I was too afraid to tell him how I felt. I have always adored him and always told him I didn’t like him because all I wanted to do was protect him and I. I didn’t want to hurt him or ruin our friendship. I was all on his mind, home coming night he tried  to kiss me. I got scared and backed away. He then fell for my best friend and forgot about me and started hating me, she lied to me and got with him. The way he looked at you made you feel like you didn’t need anyone else. I never took someone for granted as much as much in my life. I wish I never ignored the signs. He made me laugh and smile more than anything else in this world. I miss him STILL to this day.`, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
+  },
+  {
+    "c": `This song will always mean so much to me. It reminds me of the girl I long for, my best friend. Of course she doesn't know it yet. But she will. I promise I will tell her someday. Shes preoccupied at the moment dating an asshole jock. I still listen to her talk about him and about how much she likes being liked. I dont really think she likes him though. I think she just likes the idea of being loved like most girls do. But I would love her more than Wyatt ever could. I honestly just want her to be happy. She deserves it. And I definitely dont deserve her. That's why I'll keep my distance. Not give her any hints about my feelings and just let her be. I'll just be her best friend like I'm supposed to. But I'll still be waiting.`, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
+  },
+  {
+    "c": `I randomly thought of this song tonight. I remember listening to this song and crying to it after my first breakup. He was my best friend and he broke it off. I still find it unbelievable. He was so careless and quick to move on. I will never forgive him. But I still miss the person who he used to be. Even in my new relationship, I dont think I'll get over him.`, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "heartbreak"
+  },
+  {
+    "c": `This used to be my ex and mines song. We’d listen to it all the time, every time either of us were going through something.  We’d always sing every word to each other because we knew it so effortlessly. Sometimes we’d even hum it just because. 
+
+We aren’t together anymore. And though I think it was for the best for both of us, I can’t just forget all the memories. All the late night calls, times we cried laughing, and every single “i love you” said to each other. It’s so weird seeing him pass in the halls everyday and acting like we’ve never met, despite the years worth of memories we share. Someone who used to be my world is now a complete strangers. 
+
+Despite us living our separate lives now, I’ll still come back and listen to this song every once in a while. Not because I want to remember us or him, but because I want to relive the feeling that this song always made me feel. Pure comfort and safety.`, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
+  },
+  {
+    "c": `2 years ago I would listen to this song and many other similar songs while riding in the back seat in the car looking onwards on deep forest, there was something utterly peaceful and tranquil about it while just thinking about my crush at the time. Now two years later I’m certain she doesn’t like/never has and have all but given up hope but I still listen and look back at this song, many others and that time as a whole and feel a sort of nostalgic melancholy. I mean I was just a freshmen with many years ahead of me so eager and careless listening to songs like this imagining me and her walking through the beautiful woods. All I can think of now is how years down the road I’ll listen to this song again and my youth and everything will hit me again and think about how naïve and stupid I was. Idk man this song just means so much to me it gives me such a weird fucking feeling, lol.`, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "WMrU3f5QQR8",
+    "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
+    "t": "longing"
   }
   
   
