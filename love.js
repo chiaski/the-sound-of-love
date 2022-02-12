@@ -947,6 +947,42 @@ EDIT: I have come to realize that she did not “ruin this song for me” like I
     "v": "4LLIJkP301E",
     "s": "Call It Fate, Call It Karma – The Strokes",
     "t": "longing"
+  },
+  {
+    "c": `Memories of driving home with my husband after a long day out. We were driving along a motorway late at night with the cool night air flowing in through the open windows and listening to this beautiful, beautiful song on the radio. Rest in peace, David.`, 
+    "v": "OtBHfxU2wmc",
+    "s": "I'm Not in Love – 10CC",
+    "t": "longing"
+  },
+  {
+    "c": `Memories of driving home with my husband after a long day out. We were driving along a motorway late at night with the cool night air flowing in through the open windows and listening to this beautiful, beautiful song on the radio. Rest in peace, David.`, 
+    "v": "OtBHfxU2wmc",
+    "s": "I'm Not in Love – 10CC",
+    "t": "longing"
+  },
+  {
+    "c": `Why does this song hurts so bad even if I´m not in love?`, 
+    "v": "OtBHfxU2wmc",
+    "s": "I'm Not in Love – 10CC",
+    "t": "longing"
+  },
+  {
+    "c": `It's 1975, I'm a teenager again, experiencing my first love and my first broken heart.  It is amazing how music can take us back to that time, those places, and the memories that stay with us our whole life....`, 
+    "v": "OtBHfxU2wmc",
+    "s": "I'm Not in Love – 10CC",
+    "t": "longing"
+  },
+  {
+    "c": `I cry every time I listen to this, thinking of the past years of my childhood. My brother, sister, my dad and I would always be on car rides as far as I can remember, driving around at night usually on vacation or sometimes even just going to Sam's to buy groceries. But my dad had a CD of a bunch of really good songs that touched on me and stirred my taste for music as of now. I thank my dad so much for giving me a song to look back at and think of, I'm crying right now just typing this lol but I'm so happy that he gave me this music when I was younger. Now that times are a lot harder, this song is something to take me back to when everything was so simple and I didn't have to worry about how things would turn out tomorrow or what would happen to someone around me. `, 
+    "v": "OtBHfxU2wmc",
+    "s": "I'm Not in Love – 10CC",
+    "t": "longing"
+  },
+  {
+    "c": `When you're in love, but you don't want to recognize it.`, 
+    "v": "OtBHfxU2wmc",
+    "s": "I'm Not in Love – 10CC",
+    "t": "longing"
   }
 ];
 
