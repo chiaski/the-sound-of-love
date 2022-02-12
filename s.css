@@ -1,41 +1,42 @@
-body{
+body {
   overflow: hidden;
   cursor: pointer;
 }
 
-#cover{
+#cover {
   position: fixed;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  background:#fff;
+  background: #fff;
   z-index: 999;
   opacity: 0;
   -webkit-transition: all 0.8s ease-in-out;
--moz-transition: all 0.8s ease-in-out;
--ms-transition: all 0.8s ease-in-out;
--o-transition: all 0.8s ease-in-out;
-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
   pointer-events: none;
 }
 
-#player{
+#player {
   border-radius: 100%;
   overflow: hidden;
   position: fixed;
-  bottom: -150px;
-  left:50%;
-  margin-left: -250px;
-  width: 500px;
-  height: 500px;
+  bottom: -100px;
+  left: 50%;
+  width: 40vw;
+  height: 40vw;
+  margin-left:-20vw;
   z-index: 1;
   -webkit-transition: all 0.8s ease-in-out;
--moz-transition: all 0.8s ease-in-out;
--ms-transition: all 0.8s ease-in-out;
--o-transition: all 0.8s ease-in-out;
-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
   transition-delay: 0.2s;
-  
+
   -webkit-animation: spin 20s linear infinite;
   -moz-animation: spin 20s linear infinite;
   -ms-animation: spin 20s linear infinite;
@@ -44,12 +45,12 @@ transition: all 0.8s ease-in-out;
   opacity: 0;
 }
 
-#player iframe{
+#player iframe {
   border-radius: 100%;
-  
+
 }
 
-#player:hover{
+#player:hover {
   bottom: -50px;
 }
 
@@ -63,27 +64,28 @@ transition: all 0.8s ease-in-out;
   width: 100vw;
   height: 100%;
   z-index: 0;
-/*  outline: 1px solid blue;*/
+  /*  outline: 1px solid blue;*/
   pointer-events: none;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
 }
 
 
-#msg{
+#msg {
   font-family: "Times New Roman";
-  font-size: 3em;
+  font-size: 3.6em;
   font-weight: normal;
 }
 
 
-#msg h1{
+#msg h1 {
   font-weight: normal;
   letter-spacing: -2px;
 }
 
-#msg{
+#msg {
   position: fixed;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   height: 60vh;
   max-height: 800px;
   width: 100%;
@@ -97,21 +99,25 @@ transition: all 0.8s ease-in-out;
 }
 
 
-#msg .__intro h1{
+#msg .__intro h1 {
   width: 100%;
   font-size: 2em;
   text-align: center;
-  padding: 0; margin: 0;
+  padding: 0;
+  margin: 0;
   line-height: 90%;
 }
 
-#msg .__intro p{
+#msg .__intro p {
+  font-size: .4em;
   margin-top: -.5em;
-  padding: 0; margin: 0;
+  padding: 0;
+  margin: 0;
   line-height: 90%;
+
 }
 
-#msg .isaid{
+#msg .isaid {
   height: auto;
   margin-top: -.5em;
   white-space: pre-line;
@@ -122,34 +128,36 @@ transition: all 0.8s ease-in-out;
   display: none;
 }
 
-#msg .__intro{
+#msg .__intro {
   text-align: center;
 }
 
 
-  @media only screen and (max-width: 600px) {
-   
-    .s.__left, .s.__right{
-      display: none;
-    }
-    
-    #msg, .grad{
-      font-size: 1.75em;
-      height: 100vh;
-      max-height: calc(80vh - 30vw);
-    }
-    
-    #player{
-      width: 80vw;
-      height: 80vw;
-      bottom: -10vw;
-      margin-left: -40vw;
-    }
-    
+@media only screen and (max-width: 600px) {
+
+  .s.__left,
+  .s.__right {
+    display: none;
   }
 
+  #msg,
+  .grad {
+    font-size: 1.75em;
+    height: 100vh;
+    max-height: calc(80vh - 30vw);
+  }
 
-.s{
+  #player {
+    width: 80vw;
+    height: 80vw;
+    bottom: -10vw;
+    margin-left: -40vw;
+  }
+
+}
+
+
+.s {
   position: fixed;
   width: 100vw;
   z-index: 999;
@@ -163,25 +171,34 @@ transition: all 0.8s ease-in-out;
   letter-spacing: 1px;
   font-size: .8em;
   overflow: hidden;
-/*  mix-blend-mode: difference;*/
-  font-family: system-ui, 
-             -apple-system, BlinkMacSystemFont;
+  /*  mix-blend-mode: difference;*/
+  font-family: system-ui, -apple-system, BlinkMacSystemFont;
+
+
+  -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+  
+opacity: 0;
 }
 
-.s *{
+.s * {
   overflow: hidden;
 }
 
 
-.s.__top{
-top: 0;
+.s.__top {
+  top: 0;
   z-index: 15;
 }
 
-.s.__bottom{
+.s.__bottom {
   bottom: 0;
   transform: rotate(-180deg);
 }
+
 /*
 
 .s.__right{
@@ -195,14 +212,14 @@ top: 0;
 }
 */
 
-.s.__right{
+.s.__right {
   bottom: 49.5%;
   left: 50vw;
   margin-left: -20px;
   transform: rotate(90deg);
 }
 
-.s.__left{
+.s.__left {
   bottom: 49.5%;
   right: 50vw;
   margin-right: -20px;
@@ -222,7 +239,7 @@ top: 0;
 
 
 .track {
-  border: 0; 
+  border: 0;
   padding: 1em 0;
   position: absolute;
   white-space: nowrap;
@@ -231,8 +248,13 @@ top: 0;
 }
 
 @keyframes marquee {
-  from { transform: translateX(0); }
-  to { transform: translateX(-24.8%); }
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-24.8%);
+  }
 }
 
 
@@ -246,6 +268,7 @@ top: 0;
     -o-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   to {
     -ms-transform: rotate(360deg);
     -moz-transform: rotate(360deg);

@@ -730,60 +730,8 @@ EDIT: I have come to realize that she did not “ruin this song for me” like I
     "v": "NZlXwPb_JPM",
     "s": "Bluish – Animal Collective",
     "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
-  },
-  {
-    "c": ``, 
-    "v": "nDkkK-KHjks",
-    "s": "Cannons – Youth Lagoon",
-    "t": "longing"
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-]
+];
 
 let c = 0;
 
@@ -801,6 +749,7 @@ $(document).click(function (e) {
       setTimeout(
         function() 
         {
+      $(".s").css("opacity", 1);
       $("*").css("cursor", "pointer");
             $("#player").css("opacity", 1);
             $("p.isaid").fadeIn(3000);
@@ -820,10 +769,6 @@ $(document).click(function (e) {
     }
     
     c++;
-    
-    //    console.log(c + ": " + when[c]);
-    
-
   }
   
   
