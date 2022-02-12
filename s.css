@@ -1,20 +1,49 @@
+body{
+  overflow: hidden;
+  cursor: pointer;
+}
+
 #player{
-  position: absolute;
+  position: fixed;
+  bottom: -150px;
   left:50%;
   margin-left: -250px;
-  margin-bottom: -100px;
-  bottom: 0;
   width: 500px;
   height: 500px;
-  z-index: -9;
+  z-index: 9;
+  -webkit-transition: all 0.8s ease-in-out;
+-moz-transition: all 0.8s ease-in-out;
+-ms-transition: all 0.8s ease-in-out;
+-o-transition: all 0.8s ease-in-out;
+transition: all 0.8s ease-in-out;
+  opacity: 0;
+}
+
+#player:hover{
+  bottom: -50px;
+}
+
+#msg{
+  font-family: "Times New Roman";
+  font-size: 2em;
+  font-weight: normal;
+}
+
+#msg h1{
+  font-weight: normal;
+  letter-spacing: -2px;
 }
 
 .grad {
   position: fixed;
+  top: 0;
   left: 0;
-  bottom: 0;
+  height: 50vh;
+  max-height: 450px;
   width: 100vw;
-  height: 80vh;
+  height: 100%;
+  z-index: 9;
+/*  outline: 1px solid blue;*/
   pointer-events: none;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
 }
@@ -23,22 +52,78 @@
 #msg{
   position: fixed;
   top: 0; left: 0;
-  height: 100%;
+  height: 50vh;
+  max-height: 450px;
   width: 100%;
   padding: 5vw;
   box-sizing: border-box;
-  pointer-events: none;
   text-align: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-content: center;
-  align-items: center;
+  overflow-y: scroll;
 }
 
 
-#msg h1{
+#msg .__intro h1{
   width: 100%;
   font-size: 2em;
   text-align: center;
+  padding: 0; margin: 0;
+  line-height: 90%;
+}
+
+#msg .__intro p{
+  padding: 0; margin: 0;
+  line-height: 100%;
+}
+
+#msg .isaid{
+  height: auto;
+  margin-top: -.5em;
+  white-space: pre-line;
+  letter-spacing: -.5px;
+  pointer-events: none;
+  line-height: 100%;
+  text-align: center;
+  display: none;
+}
+
+#msg .__intro{
+  text-align: center;
+}
+
+h1#s{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 2.5vw;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: .8em;
+  mix-blend-mode: difference;
+  font-family: system-ui, 
+             -apple-system, BlinkMacSystemFont;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #000;
+  border: 3px solid #fff;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #000;
 }
