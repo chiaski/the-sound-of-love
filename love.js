@@ -1018,5 +1018,79 @@ EDIT: I have come to realize that she did not “ruin this song for me” like I
     "v": "NdYWuo9OFAw",
     "s": "Iris – Goo Goo Dolls",
     "t": "longing"
+  },
+  {
+    "c": `one time when i was 15 i was up late working on an essay for school, exhausted and stressed and crying, and my dad came in around midnight to say he was going to bed and i basically said whatever just leave me alone and then he came back with a bowl of strawberries he sprinkled some sugar over before saying good night. this song feels like that little bowl of sweet strawberries he gave me late at night.`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `Last week a friend visited me. She's half Swedish, half Portuguese, but we first met in Belgium a couple of years ago. I live in Holland now, so she drove two days by bike from Belgium to my place. 
+
+On the second day of her visit, we found a green parrot lying on its back in front of my house, breathing heavily, and looking awful. These green tropical parakeets rule the air in our Dutch neighborhood, they once got released by families (or by a Zoo in Amsterdam, so another story goes) but somehow succeeded in surviving the northern climate. My friend carefully picked it up with her both hands, the little thing looked like it had been fiercely attacked. It soon died in her hands. 
+
+We carefully put it in a cardboard box filled with leaves, and later buried it underneath a tree in the park nearby, next to a raspberriebush that my foraging friend found. As a ceremony, my friend read out loud all the song-titles we came up with the past years and that she keeps in a list on her phone, for our not-yet-existing band. It was meant as a joke, but when she read the last title ("support your local parrot") I started crying. 
+
+During this entire  funeral we had my mobile phone playing this first song in the background, "Talking" by Haruomi Hosono, from this exact YouTube-video. 
+
+I hope you all have a beautiful day, and a beautiful night.`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `one time when i was 15 i was up late working on an essay for school, exhausted and stressed and crying, and my dad came in around midnight to say he was going to bed and i basically said whatever just leave me alone and then he came back with a bowl of strawberries he sprinkled some sugar over before saying good night. this song feels like that little bowl of sweet strawberries he gave me late at night.`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `You are a young bamboo shoot. It's finally spring. Peeking up just above the ground, you're seeing the sun for the first time. Dew drops decorate your surroundings, reflecting its light with a crystal-like brilliance. Birds fly overhead, birds of all colours and shapes. You hear them sing, their melodies harmonising with the excited chatter of the cicadas, ringing in the new season. You absorb all of this life and beauty, giving you the strength to grow tall and become a part of the harmony that surrounds you. You are happy.`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `My childhood dog, Speedy,  just passed away. I came here immediately. 
+I watched his birth,
+We watched each other grow.
+He was more of a "speed bump" than a Speedy;
+until he got the zooms.
+Last night, The Puppy Princess took him away when we weren't looking.
+He laid by the front door (I assume) in hopes to go outside one last time. 
+He was a good boy..`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `I'm 7 years old, laying in my bed and reading my favorite book. It is a Saturday afternoon and my mother is making spaghetti for dinner. I curl further into the bedsheets and feel as the cool mattress gradually heats under my body. I am warm and safe and loved, and I don't know what an e-mail is.`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `This song made me write this poem:
+Today I bought you a slice of sun 
+So that you could let me stare into your soul
+Each mind is a universe
+Yours is the one I want to live in 
+Am I only dreaming? 
+The wind brings me your smell 
+From the mountains I have never seen
+From the bridges I've never crossed
+Today is a beautiful day to be sad 
+Over and over again
+Won't you taste your slice of sun?`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
+  },
+  {
+    "c": `Just broke off a five year relationship. We’re on good terms but Im feeling profoundly lonely. The house is near silent with all but this album along with these comments keeping me company and telling me it’ll be alright, even if it’s in a  bittersweet way. I’m in a weird spot at the moment, I’m planning on returning to college after a brief and spectacular failure of a semester in fall of 2019 (just before the pandemic hit lol). Feeling really anxious about that but a (rather optimistic) part of me is reassured that I’ll be okay though. Something tells me I’m going to be returning to this album a lot in the coming months. Thank you if you’ve read all this rambling, it means a lot.`,
+    "v": "2RRrzssFlKw",
+    "s": "TALKING – Haruomi Hosono",
+    "t": "longing"
   }
 ];
