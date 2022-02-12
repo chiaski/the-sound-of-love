@@ -1029,8 +1029,15 @@ $("body").click(function (e) {
 
           $("p.isaid").text(love[r].c);
           player.loadVideoById(love[r].v);
-          $("body").css("pointer-events", "auto");
-          $("*").css("cursor", "pointer");
+
+        // cursor back
+        setTimeout(
+          function () {
+            $("*").css("cursor", "pointer");
+            $("body").css("pointer-events", "auto");
+          }, 3200);
+
+
         }, 4000);
 
     } else {
@@ -1091,10 +1098,15 @@ function thesoundof(r) {
   setTimeout(
     function () {
       $("#cover").css("opacity", 0);
-      $("body").css("pointer-events", "auto");
-      $("*").css("cursor", "pointer");
     }, 2500);
 
+  
+  // cursor back
+  setTimeout(
+    function () {
+      $("body").css("pointer-events", "auto");
+      $("*").css("cursor", "pointer");
+    }, 3200);
 
 
   // adjust font size based on length
