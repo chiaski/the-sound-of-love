@@ -39,18 +39,6 @@ transition: all 0.8s ease-in-out;
   bottom: -50px;
 }
 
-#msg{
-  font-family: "Times New Roman";
-  font-size: 2em;
-  font-weight: normal;
-  
-}
-
-
-#msg h1{
-  font-weight: normal;
-  letter-spacing: -2px;
-}
 
 .grad {
   position: fixed;
@@ -68,12 +56,24 @@ transition: all 0.8s ease-in-out;
 
 
 #msg{
+  font-family: "Times New Roman";
+  font-size: 3em;
+  font-weight: normal;
+}
+
+
+#msg h1{
+  font-weight: normal;
+  letter-spacing: -2px;
+}
+
+#msg{
   position: fixed;
   top: 0; left: 0;
   height: 50vh;
   max-height: 500px;
   width: 100%;
-  padding: 5vw;
+  padding: calc(40px + 3.5vw);
   box-sizing: border-box;
   text-align: center;
   display: flex;
@@ -131,10 +131,8 @@ transition: all 0.8s ease-in-out;
   }
 
 
-#s{
+.s{
   position: fixed;
-  left: 0;
-  bottom: 0;
   width: 100vw;
   z-index: 999;
   background: #fff;
@@ -146,9 +144,42 @@ transition: all 0.8s ease-in-out;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: .8em;
-  mix-blend-mode: difference;
+  overflow: hidden;
+/*  mix-blend-mode: difference;*/
   font-family: system-ui, 
              -apple-system, BlinkMacSystemFont;
+}
+
+.s *{
+  overflow: hidden;
+}
+
+
+.s.__top{
+top: 0;
+  z-index: 15;
+}
+
+.s.__bottom{
+  bottom: 0;
+  transform: rotate(-180deg);
+}
+
+.s.__right{
+  background: blue;
+  bottom: 42.5%;
+  z-index: 1;
+  width: 100vh;
+  left: 60vw;
+  margin-left: -50px;
+  transform: rotate(90deg);
+}
+
+.s.__left{
+  bottom: 49.5%;
+  right: 50vw;
+  margin-right: -20px;
+  transform: rotate(-90deg);
 }
 
 /* MARQUEE */
@@ -164,16 +195,17 @@ transition: all 0.8s ease-in-out;
 
 
 .track {
-  padding: 2.5vw;
+  border: 0; 
+  padding: 1em 0;
   position: absolute;
   white-space: nowrap;
   will-change: transform;
-  animation: marquee 32s linear infinite;
+  animation: marquee 2s linear infinite;
 }
 
 @keyframes marquee {
   from { transform: translateX(0); }
-  to { transform: translateX(-50%); }
+  to { transform: translateX(-23%); }
 }
 
 

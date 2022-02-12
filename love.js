@@ -539,7 +539,7 @@ $(document).click(function (e) {
             $("p.isaid").fadeIn(3000);
           
   $("div._s").fadeOut(function() {
-  $(this).text(love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s).fadeIn(2000);
+  $(this).text(love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s + " " + love[r].s).fadeIn(2000);
 });
         
             $("p.isaid").text(love[r].c);
