@@ -1089,7 +1089,7 @@ $("body").click(function (e) {
 
 $('body').keyup(function(e){
    if(e.keyCode == 32){
-       $("#bw").toggle();
+       $("#bw").fadeToggle();
    }
 });
 
