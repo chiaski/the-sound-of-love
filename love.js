@@ -981,6 +981,42 @@ EDIT: I have come to realize that she did not “ruin this song for me” like I
     "v": "OtBHfxU2wmc",
     "s": "I'm Not in Love – 10CC",
     "t": "longing"
+  },
+  {
+    "c": `I was adopted since birth but I was 11 when I first heard this song and was just rescued from a bad foster home where I was badly abused and boy oh boy this song hit me so hard it always brings tears to my eyes when I hear it I love this song so much and it means the world to me`,
+    "v": "NdYWuo9OFAw",
+    "s": "Iris – Goo Goo Dolls",
+    "t": "longing"
+  },
+  {
+    "c": `Not many people can understand this… my son makes me feel this way. He left this world to be an angel and I just want him to know I loved him more than life itself. I would give up forever to hug him again.`,
+    "v": "NdYWuo9OFAw",
+    "s": "Iris – Goo Goo Dolls",
+    "t": "longing"
+  },
+  {
+    "c": `Remember when a just met my misses at 17  and were on the phone to each and other and this song was playing in the background and ever since that the song has always stuck with us it will be our wedding song and our funeral song takes me back to that day everytime I hear it😍  feels  like yesterday a just met her 11 years on with 3 beautiful kids and still going strong ❤`,
+    "v": "NdYWuo9OFAw",
+    "s": "Iris – Goo Goo Dolls",
+    "t": "longing"
+  },
+  {
+    "c": `I miss them so much and even if they are probably happier in this other world I can't stop myself from being selfish and wanting to spend a little more time with them`,
+    "v": "NdYWuo9OFAw",
+    "s": "Iris – Goo Goo Dolls",
+    "t": "longing"
+  },
+  {
+    "c": `My wife walked down to this song at our wedding 10 years ago. This song means so much to both of us.`,
+    "v": "NdYWuo9OFAw",
+    "s": "Iris – Goo Goo Dolls",
+    "t": "longing"
+  },
+  {
+    "c": `Music is one of the few things that can bring people together, and we must cherish that fact`,
+    "v": "NdYWuo9OFAw",
+    "s": "Iris – Goo Goo Dolls",
+    "t": "longing"
   }
 ];
 
