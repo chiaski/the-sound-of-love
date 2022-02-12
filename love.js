@@ -1092,5 +1092,44 @@ Won't you taste your slice of sun?`,
     "v": "2RRrzssFlKw",
     "s": "TALKING – Haruomi Hosono",
     "t": "longing"
+  },
+  {
+    "c": `My son died a few months ago. He loved this song. It makes me cry.`,
+    "v": "MBFXJw7n-fU",
+    "s": "Avril 14th – Aphex Twin",
+    "t": "longing"
+  },
+  {
+    "c": `When I was about 13 I received this album from my older brother when he moved out. I found such comfort for my angst, my confusion, my teenage depression in the playful melancholy journey that this very song carries me through in just two minutes. I played it on repeat hundreds of times, often letting it sing me to sleep.`,
+    "v": "MBFXJw7n-fU",
+    "s": "Avril 14th – Aphex Twin",
+    "t": "longing"
+  },
+  {
+    "c": `My grandma recently passed and right now my family and I are staying at her house just enjoying how nice her house is and the fact that we can use a dishwasher lmao. But yeah, it’s a beautiful day where I live so I’m probably gonna go for a walk or something like that. I hope you guys can do something also, and even if you can’t, just enjoy yourself and the day. Love you all ❤️`,
+    "v": "MBFXJw7n-fU",
+    "s": "Avril 14th – Aphex Twin",
+    "t": "longing"
+  },
+  {
+    "c": `I miss my dog.`,
+    "v": "MBFXJw7n-fU",
+    "s": "Avril 14th – Aphex Twin",
+    "t": "longing"
+  },
+  {
+    "c": `Have you ever wished you could do it all over again?
+Be in your parents arms again as a baby and then live life with no worries and have all the friends you used to have and all the good times with family you haven't seen in years?
+This song reminds me of a past I wish I could remember more vividly and how I am who I am today thanks to my family and friends.
+Be proud of what you have become and who you always will be and to be thankful for the ones who helped guide you to be you.`,
+    "v": "MBFXJw7n-fU",
+    "s": "Avril 14th – Aphex Twin",
+    "t": "longing"
+  },
+  {
+    "c": `This song was just played as my soon-to-be-wife was coming down the aisle. My head asplode (i am longtime afx fanboy)`,
+    "v": "MBFXJw7n-fU",
+    "s": "Avril 14th – Aphex Twin",
+    "t": "longing"
   }
 ];
