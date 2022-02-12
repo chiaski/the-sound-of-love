@@ -20,6 +20,8 @@ transition: all 0.8s ease-in-out;
 }
 
 #player{
+  border-radius: 100%;
+  overflow: hidden;
   position: fixed;
   bottom: -150px;
   left:50%;
@@ -32,7 +34,19 @@ transition: all 0.8s ease-in-out;
 -ms-transition: all 0.8s ease-in-out;
 -o-transition: all 0.8s ease-in-out;
 transition: all 0.8s ease-in-out;
+  transition-delay: 0.2s;
+  
+  -webkit-animation: spin 20s linear infinite;
+  -moz-animation: spin 20s linear infinite;
+  -ms-animation: spin 20s linear infinite;
+  -o-animation: spin 20s linear infinite;
+  animation: spin 20s linear infinite;
   opacity: 0;
+}
+
+#player iframe{
+  border-radius: 100%;
+  
 }
 
 #player:hover{
@@ -222,6 +236,24 @@ top: 0;
 }
 
 
+/* SPIN */
+
+@keyframes spin {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
 
 /* SCROLLBAR */
 

@@ -505,6 +505,193 @@ Don't you think we could pretend that friendships and love never end...?`,
     "v": "nDkkK-KHjks",
     "s": "Cannons – Youth Lagoon",
     "t": "longing"
+  },
+  {
+    "c": `"I miss you more than I remember you"`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `"crying at 3am for u and i probably don’t even cross your mind."`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `"you’ll be okay, everything will be okay. just hang on tight for me, alright?`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `"I cried to this song, not that i've heartbroken before, but because i can. Im in a beatiful relationship with a soft person and i forget to appreciate sometimes what we have. I hear people breaking up after 3, 5 or 10 years and i think to myself, could it happen to me? These sad songs remind me not to take anything for granted, that there is always room to improve, to become a better version of yourself for the person you love and care about. I get reminded that one day, i could be listening to this song, and actually die inside, get my heart squeezed with the feelings cuz i'll be understanding it better. And i dont want that. So if u love someone and they love you, dont stop doing effort to make it better. Respect, loyalty and care are very important. Wont forget that."`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `"My dear friends. 
+
+What a beautiful corner of the internet did I just discover.
+It is so rare to hear so many people acknowledge openly that this life is hard and that we suffer. 
+Just scrolling through the comments and reading the stuff people go through, makes it horribly and beautifully apparent that this is so. These comments are from people on the internet, names that point to people, we will likely never meet. But their stories are not individual cases. Not something that is rare. The people you know personally and you yourself have suffered. The intensity of the suffering and the depth of the wounds are not something that sets us apart. We are united in the fact that we love and in the fact that we suffer.
+
+But I want this comment to be ray of sunshine, a slight touch of hope amidst this misery. I don't need to tell y'all why it sucks. You know that. You have lived in this world. We fall apart and what we love does too. This is a fundamental fact of life that needs to be acknowledged. This world is not shaped in a way as to be able to make us happy. Ever.
+
+If you stay here and have only realised this, depression is the result. I acknowledge this and my heart is still not made of stone. 
+Nonetheless, I am not depressed. I have found my peace with this way the world is, because I have found something higher than this world.
+I am not going to tell you, what it is. Neither am I going to tell you, where I found it, other than: Within myself and all around us. I just want this to be a signpost, saying: There is a way out of this. Because there is. How are you going to find it? I don't know. People are too different for a solution that works for everybody. I know my way and I travelled far enough to be at rest. You are going to find your way, I am certain. 
+There have been great souls, showing us various paths toward the Divine. Following a well trodden path is better, than making your own way.
+Depression is not the end. It is the beginning of spirituality. The beginning of freedom.
+
+Find that which lasts, in all this change. Everything in this world will disappoint you, but this will not.
+
+I wish you all the best on your journey. I wish you all the peace, love and happiness you deserve.
+You will get there one day. You will be free.
+
+Until then, know that someone cares. Know that you are not alone in your suffering.
+Read these comments and realise that suffering is a fundamental part of human life.
+Beyond all our differences, we are united in love and suffering.
+
+Let there be more love in this world and less suffering."`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `Fell in love with a man who wasn’t meant to be mine. `, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `When I said I was going to wait for you, you begged me not to. 
+But I didn’t listen and here I am, two years later, still looking for you in every song, in every single shred of life I have left.`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `I don't know why I think about you every morning when I wake up and every night before I go to sleep. We were not even close to being official, we were just strangers getting to know each other. Even knowing this you still live in my mind every single day for no good reason. You came into my life at a time where I thought that I wouldn't even consider a relationship but you seriously changed that. After our first date I seriously felt whole for the first time in so long. I felt capable and wanted. I know that you don't hate me and that our circumstances were just not good but I still think about you every single day wishing I could talk to you.`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `you're thinking of the person you love while you're listening to this and they dont even think about you`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `Could be worse, but damn does it suck.`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `When you found your soulmate but she can't and will never love you`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `I once met a person with a soul so bright that our short time together felt like a lifetime. May we meet again Julian.`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `i just want to tell you a real thank you. i'm listening this at my birthday all alone. i cried. i wished my biggest will and dream while listening to this song.`, 
+    "v": "gPjqWwkAymg",
+    "s": "All I've Ever Known – Bahamas",
+    "t": "longing"
+  },
+  {
+    "c": `A few months back, I met an amazing and sweet girl where we always had deep conversations and then we expressed our music taste together and she told me about cigarettes after sex. We both listened to apocalypse together at 4am, It made me feel as if I was in a different world. I cannot begin to express the amazing feelings and emotions I had listening to this song. It makes me feel of my happy times filled with joy and living in the moment, especially being with her. Then feeling to hard times with heartbreak, feeling down, crying, healing, and to picking myself back up. Well, we stopped talking and parted ways. She was going through a lot and I hope shes doing well, I wish things worked out between us…but life happens. This song will always remain with me and I’ll always listen to CAS. These experiences becomes a memory, memories in which I’m forever grateful for.`, 
+    "v": "sElE_BfQ67s",
+    "s": "Apocalypse – Cigarettes After Sex",
+    "t": "longing"
+  },
+  {
+    "c": `I just miss her a lot, i wish i could listen to this song with her while laying down in a huge field just looking at the moon and having our dumb talks about things that we absolutely love, or our stupid debates that we would always have. she was literally the light for my life but now she left me here in a really dark place`, 
+    "v": "sElE_BfQ67s",
+    "s": "Apocalypse – Cigarettes After Sex",
+    "t": "longing"
+  },
+  {
+    "c": `I love my girlfriend, I was with her today and we were listening together while we smoked, the energy and the connection between us is strong, I really love her.`, 
+    "v": "sElE_BfQ67s",
+    "s": "Apocalypse – Cigarettes After Sex",
+    "t": "longing"
+  },
+  {
+    "c": `
+I recently lost my girlfriend. We were together for 6 full years. I wanted to write this because I felt it was necessary. I needed to get it off my chest. Everything was great in the first year. We had that spark when you meet someone new. Unfortunately, she had got out of a long term relationship from high school and had history with him. She cheated on me the first year. I forgave her because I really wanted to be with her, but to be honest. Ever since then, it went downhill. We had good times but mostly bad because it was in the back of my head for a long time until I got over it. It took me 2-3 years to get over that feeling of not being wanted or loved. I wanted to be perfect for her. Then 3 years into the relationship, we fought more and more and said things we didn’t mean and regret. She found someone else for like 1-2 months. So it sucked, that she basically cheated again because we weren’t done. When I found out she was with someone else. I saw her phone, pictures of her naked that were sent. Messages. It hurt like hell, and I didn’t know what I was doing wrong. Again, like an idiot. I forgave her and we started dating again. Then now that we made 6 years. She started feeling not happy anymore, all we did was fight. Quarantine didn’t make it any better. We rarely saw each other. I knew we were at the verge of a cliff. And it sucks. Because I caught her yet again 1 week ago. With her first ex from high school in the car. She looked dead at me. I knew in that moment. Everything was over and done with. She had moved on. The crazy thing about it, was I had just bought her a vase with roses that night and I was going to tell her that she was the one and that I was sorry for not trying anymore. That we could maybe start over. But after seeing something like that, it just kind of kills you. It breaks you in ways that I can’t describe. She didn’t even text me or call me after. She just left it like that. Everybody says I deserve better but it still hurts to lose someone you’ve been with for that long. I’m sorry for writing this. But cigarettes after sex has saved me. From pain and from loneliness because their music helps me calm down and makes me happy. Even though, she did indeed break my heart. I wish her nothing but the best and I hope she finds happiness. Now, I hope to just focus on myself and work hard to do what I want to do. I will keep you guys updated in 6 months-1 year to see how I am doing. Thank you for reading this.`, 
+    "v": "sElE_BfQ67s",
+    "s": "Apocalypse – Cigarettes After Sex",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "LIQz6zZi7R0",
+    "s": "Cornerstone – Arctic Monkeys",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
+  },
+  {
+    "c": ``, 
+    "v": "nDkkK-KHjks",
+    "s": "Cannons – Youth Lagoon",
+    "t": "longing"
   }
   
   
