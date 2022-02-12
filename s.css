@@ -150,6 +150,22 @@ body {
 
 @media only screen and (max-width: 600px) {
 
+  .track{
+    transform: none !important;
+    animation: none !important;
+  }
+  
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+  
   .s.__left,
   .s.__right {
     display: none;
