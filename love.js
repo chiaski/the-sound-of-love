@@ -67,6 +67,23 @@ I wonder if she misses me as much as I miss her.`,
     "t": "heartbreak"
   },  
   {
+    "c": `This reminds me of my late boyfriend Chris. He passed away from suicide and the last I saw him was in December. The last I kissed him, hugged him, felt his presence..He lived with an abusive father and had no mother because she had lost her battle to suicide when he was in middle school. He cried for a mother and craved that bond and love. I was the only on to keep him afloat for years until the one last fight he had with his father..he just couldn't take it anymore.
+The last thing I got from him was a message at 1:38 a.m. “ i love you so much .. and don’t ever think i don’t” i woke up to a flood of messages asking if I had heard the news, am I okay, and if I’m alive..
+I thought it was one of those late night messages, but his best friend called and he said “Elizabeth, promise me you will be strong but.... Chris..shot himself last night” and i hung up Immediately.
+I couldn’t process it , my heart wasn’t beating, my hands were shaking and i screamed like I’ve never screamed before.I called him well over 40 plus times but..he never answered.
+
+He passed away on January 5th 2019.
+
+He had a polaroid camera and i have a picture of him at the lunchroom and I keep it at my bedside at all times. When he was laid to rest they buried him with a suit that he wore when we went to our last prom,the guitar necklace I gave him for Christmas that December and finally the polaroid picture he took of me at the lockers and they had put it in his pocket close to his heart.
+
+I’ll see you soon my love,my goofball and all.
+This song goes out to you Chris and to all who suffer loss but are brought together out of love.
+🌻`, 
+    "v": "Rel8ZWkNNlM",
+    "s": "Pictures of You – The Cure",
+    "t": "heartbreak"
+  },  
+  {
     "c": `You gave every song to me, then you gave the same songs to another. But hey: from life, you want to make alot of money and feel dead inside. Bon courage, c***.`, 
     "v": "U43AA5meBXg",
     "s": "Birds – Electrelane",
@@ -652,6 +669,14 @@ I recently lost my girlfriend. We were together for 6 full years. I wanted to wr
     "t": "longing"
   },
   {
+    "c": `i rememberer playing this song as you slept. Maybe your were just enough awake to hear it. i wanted to hold you so bad on those nights when you were gone. You always wanted to be with me.
+
+I remember when i held you that one night. Thinking that no one will, has, or will ever love me as much as you did. I know you still do. I miss you so much. It still feels like empty. It still hurts sometimes.`, 
+    "v": "1aMQ8db4Y4c",
+    "s": "Your Hand In Mine – Explosions in the Sky",
+    "t": "longing"
+  },
+  {
     "c": `Please God, I don't want to fail again. Please listen to me just this once. Please give me the strength to complete what I have  begun.`, 
     "v": "1aMQ8db4Y4c",
     "s": "Your Hand In Mine – Explosions in the Sky",
@@ -729,6 +754,198 @@ EDIT: I have come to realize that she did not “ruin this song for me” like I
     "c": `This sounds like what love feels like.`, 
     "v": "NZlXwPb_JPM",
     "s": "Bluish – Animal Collective",
+    "t": "longing"
+  },
+  {
+    "c": `I distinctly remember my parents driving me to our new house while this song was playing. I was 15 and I was crying through my bangs that covered my eyes. I love where I am now and I am grateful for the memory.`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `this song reminds me of the time i did acid with a friend and everything he said was so beautiful and smart that i just kept thinking i wish i could live in his head`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `I distinctly remember my parents driving me to our new house while this song was playing. I was 15 and I was crying through my bangs that covered my eyes. I love where I am now and I am grateful for the memory.`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `Reminds me that there is still love in the world.`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `Today me and my girlfriend agreed that this would be our song. It's beautiful.`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `This was my dad's favourite song. We played this for his funeral, I still remember him.`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `I found this song when I was in love. Now hearing it again, the warmth and longing is gone. I can’t understand the words anymore. I’m listening trying to find that feeling but it was a lie. It was all a lie.`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `This song reminds me of a person I dated, they struggled with mental health quite severally and I would always tell them how proud and how amazing they where we sat in a field for hours talking about life and how we want to grow old together. unfortunately they passed away last month and I come here every so often just to be reminded of them I know there still with me because I can feel there presence behind me while I listen, it’s quite fascinating`, 
+    "v": "82xcICYq11Y",
+    "s": "I'd Like To Walk Around In Your Mind – Vashti Bunyan",
+    "t": "longing"
+  },
+  {
+    "c": `I like to imagine that this is what falling in love sounds like.`, 
+    "v": "kIu-eevvg_A",
+    "s": "Irresistible – Deafheaven",
+    "t": "longing"
+  },
+  {
+    "c": `My wife and I recently celebrated our 23rd anniversary together. I sent her a compilation video of my favourite photos of us together, spanning all those years. 9 months ago, she was diagnosed with incurable metastatic breast cancer; adding this song to our photos created a beauty and poignancy that will stay with me forever as I revisit the video long after she has gone. It is a hard listen but I will always associate this song with her, because to me, she is Irresistible.`, 
+    "v": "kIu-eevvg_A",
+    "s": "Irresistible – Deafheaven",
+    "t": "longing"
+  },
+  {
+    "c": `I feel something, but I don't know how to describe it`, 
+    "v": "kIu-eevvg_A",
+    "s": "Irresistible – Deafheaven",
+    "t": "longing"
+  },
+  {
+    "c": `Reminds me of slow dancing with my girlfriend when we decided to break up.`, 
+    "v": "kIu-eevvg_A",
+    "s": "Irresistible – Deafheaven",
+    "t": "longing"
+  },
+  {
+    "c": `Thank you for the beautiful years we had together. I will always remember you`, 
+    "v": "kIu-eevvg_A",
+    "s": "Irresistible – Deafheaven",
+    "t": "longing"
+  },
+  {
+    "c": `I used to listen to this song in late 1966 with my girlfriend, when we were both students at UCLA. It was "our song". We were happy.The following year, as a young Army lieutenant, I was sent to fight in Vietnam and my life changed forever. Those days and my girlfriend are long gone but this wonderful song always reminds me of that time and still brings a tear to my eye. `, 
+    "v": "AOMyS78o5YI",
+    "s": "God Only Knows – The Beach Boys",
+    "t": "longing"
+  },
+  {
+    "c": `My wonderful wife Chrissy died Feb 19, 2021. I dedicate this song to our almost 48 years of earthly marriage. We’ll be together for eternity, this I know for sure.`, 
+    "v": "AOMyS78o5YI",
+    "s": "God Only Knows – The Beach Boys",
+    "t": "longing"
+  },
+  {
+    "c": `Our dad who just left us played the French Horn for over 85 years and hearing the intro brings me to tears every time. Heavens band must be glorious! No better song ever written or recorded.`, 
+    "v": "AOMyS78o5YI",
+    "s": "God Only Knows – The Beach Boys",
+    "t": "longing"
+  },
+  {
+    "c": `"Our song" between me and my incredibly precious daughter. God truly only knows. I love her beyond meaning.`, 
+    "v": "AOMyS78o5YI",
+    "s": "God Only Knows – The Beach Boys",
+    "t": "longing"
+  },
+  {
+    "c": `Listening to this while on a walk along the beach and realizing this is the theme song for literally everyone I look at. Everyone's here with family and they're all smiling and laughing. This is their song -- they just don't know it.`, 
+    "v": "AOMyS78o5YI",
+    "s": "God Only Knows – The Beach Boys",
+    "t": "longing"
+  },
+  {
+    "c": `I dedicate this to all of you who feel this way but find it difficult to express... unspoken love.`, 
+    "v": "AOMyS78o5YI",
+    "s": "God Only Knows – The Beach Boys",
+    "t": "longing"
+  },
+  {
+    "c": `I fell in love to this album for the first time, the music brings it back`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `Listening to this while talking to the moon in my head. I was all wrong about it, he is very much appreciated`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `This is what the penultimate love of your life will share with you…`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `Sing to me every day. Thank you.`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `I think I'm gonna go for it.`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `One thing doesn't make a man.`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `I want em back.`, 
+    "v": "0itGqFgY4ts",
+    "s": "Lover's Spit – Broken Social Scene",
+    "t": "longing"
+  },
+  {
+    "c": `this song played in the cafe after i got stood up, felt like fate`, 
+    "v": "4LLIJkP301E",
+    "s": "Call It Fate, Call It Karma – The Strokes",
+    "t": "longing"
+  },
+  {
+    "c": `I met a beautiful girl at a festival and took her to my house. I always wanted to share this song in a deep way. So, we listened to this song with high quality over the head phones together(on acid.) We started dancing, and suddenly we were kissing... and then one of the best moments of my life. I hold this song so close to me.`, 
+    "v": "4LLIJkP301E",
+    "s": "Call It Fate, Call It Karma – The Strokes",
+    "t": "longing"
+  },
+  {
+    "c": `I haven't been in love for a few years.`, 
+    "v": "4LLIJkP301E",
+    "s": "Call It Fate, Call It Karma – The Strokes",
+    "t": "longing"
+  },
+  {
+    "c": `this was our song, he said he'd stand in my light forever then chose someone else over me`, 
+    "v": "4LLIJkP301E",
+    "s": "Call It Fate, Call It Karma – The Strokes",
+    "t": "longing"
+  },
+  {
+    "c": `I want to slow dance to this with someone special. Just once.`, 
+    "v": "4LLIJkP301E",
+    "s": "Call It Fate, Call It Karma – The Strokes",
+    "t": "longing"
+  },
+  {
+    "c": `I sometimes wish you weren't attached to every memory or thought...`, 
+    "v": "4LLIJkP301E",
+    "s": "Call It Fate, Call It Karma – The Strokes",
     "t": "longing"
   }
 ];
