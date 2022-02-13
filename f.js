@@ -156,6 +156,7 @@ function thesoundof(r) {
 
   setTimeout(
     function () {
+      $(".grad").css("opacity", "1");
       $("#cover").css("opacity", 0);
     }, 2500);
 
