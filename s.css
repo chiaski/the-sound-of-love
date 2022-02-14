@@ -134,6 +134,7 @@ body {
 
 #msg .__intro .__url{
   font-size: .25em;
+  letter-spacing: .2px;
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
 }
 
@@ -143,7 +144,7 @@ body {
   margin: 0;
   margin-top: -1.5em;
   line-height: 90%;
-  
+  font-family: system-ui, -apple-system, BlinkMacSystemFont;
 }
 
 #msg .isaid {
