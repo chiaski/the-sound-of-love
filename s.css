@@ -43,7 +43,6 @@ body {
 }
 
 #player {
-  border-radius: 100%;
   overflow: hidden;
   position: fixed;
   bottom: -100px;
@@ -52,6 +51,7 @@ body {
   height: 40vw;
   margin-left:-20vw;
   z-index: 1;
+  border-radius: 100%;
   -webkit-transition: all 0.8s ease-in-out;
   -moz-transition: all 0.8s ease-in-out;
   -ms-transition: all 0.8s ease-in-out;
@@ -81,20 +81,19 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  height: 60vh;
-  max-height: 800px;
+  height: 80vh;
   width: 100vw;
   z-index: 99;
   opacity: 0;
   /*  outline: 1px solid blue;*/
-  pointer-events: none;
+  pointer-events: none !important;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
 }
 
 
 #msg {
   font-family: "Times New Roman";
-  font-size: 3.3em;
+  font-size: 1.5em;
   font-weight: normal;
 }
 
@@ -109,63 +108,83 @@ body {
   top: 0;
   left: 0;
   height: 100vh;
-  max-height: 800px;
+  max-height: calc(100vh - 30vw);
   width: 100%;
-  padding: calc(40px + 3.5vw);
+  padding: calc(40px + 1vw);
+  font-size: 2.4em;
   box-sizing: border-box;
   text-align: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   overflow-y: scroll;
+  vertical-align: center;
+  align-items: center;
+  align-content: center;
 }
 
 
 #msg .__intro h1 {
   width: 100%;
-  font-size: 15vh;
+font-size: 2em;
   text-align: center;
   padding: 0;
-  margin: 0 auto;
+  margin: .25em auto;
+  margin-top: -1em;
   max-width: 580px;
-  line-height: 80%;
-  letter-spacing: -7px;
-}
-
-#msg .__intro .__url{
-  font-size: .25em;
-  letter-spacing: .2px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont;
+  line-height: 90%;
+  letter-spacing: -3px;
 }
 
 #msg .__intro p {
   font-size: .3em;
   padding: 0;
-  margin: 0;
-  margin-top: -1.5em;
-  line-height: 90%;
+  margin: .5em;
+  text-transform: uppercase;
+  line-height: 120%;
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
+  
+  
+  -webkit-transition: all 4s ease-in-out;
+  -moz-transition: all 4s ease-in-out;
+  -ms-transition: all 4s ease-in-out;
+  -o-transition: all 4s ease-in-out;
+  transition: all 4s ease-in-out;
 }
 
+
+#msg .__intro {
+  margin-top: 20vh;
+  text-align: center;
+/*  display: none;*/
+}
+
+
 #msg .isaid {
-  height: auto;
-  margin-top: -.5em;
-  padding-top: 30px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
   white-space: pre-line;
-  letter-spacing: -.5px;
+  letter-spacing: 0;
   pointer-events: none;
   line-height: 100%;
   text-align: center;
   display: none;
 }
 
-#msg .__intro {
-  margin-top: 10vh;
-  text-align: center;
-}
-
 
 @media only screen and (max-width: 600px) {
+  
+  #msg .__intro h1{
+    font-size: 2.2em;
+    letter-spacing: -2px;
+  }
+  
+  #msg{
+    font-size: 1.5em;
+    padding-bottom: 10vh;
+  }
+  
 
   .track{
     transform: none !important;
@@ -187,19 +206,29 @@ body {
     display: none;
   }
 
+  #msg{
+    line-height: 90%;
+    height: 70vh;
+    max-height: calc(90vh - 25vw);
+  }
   #msg,
   .grad {
-    font-size: 1.9em;
-    line-height: 90%;
     height: 100vh;
-    max-height: calc(100vh - 30vw);
+  }
+  
+  .grad{
+    pointer-events: none; 
+  }
+  
+  #msg .isaid{
+    height: 100%;
   }
 
   #player {
-    width: 80vw;
-    height: 80vw;
-    bottom: -10vw;
-    margin-left: -40vw;
+    width: 60vw;
+    height: 60vw;
+    bottom: -15vw;
+    margin-left: -30vw;
   }
 
 }
@@ -210,14 +239,14 @@ body {
   width: 100vw;
   z-index: 999;
   background: #fff;
-  height: 40px;
+  height: 30px;
   text-align: center;
   margin: 0;
   box-sizing: border-box;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: .8em;
+  font-size: .6em;
   overflow: hidden;
   /*  mix-blend-mode: difference;*/
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
@@ -246,19 +275,6 @@ body {
   bottom: 0;
   transform: rotate(-180deg);
 }
-
-/*
-
-.s.__right{
-  background: blue;
-  bottom: 42.5%;
-  z-index: 1;
-  width: 100vh;
-  right: -30vw;
-  margin-left: -50px;
-  transform: rotate(90deg);
-}
-*/
 
 .s.__right {
   bottom: 49.5%;

@@ -36,6 +36,15 @@ let c = 0;
 
 console.log(love.length);
 
+$("h1").fadeIn(3000);
+
+   setTimeout(
+            function () {
+$(".__intro p").css("color", "#000000");
+              
+            }, 1500);
+
+
 $("body").click(function (e) {
 
   if (e.button == 0) {
@@ -47,6 +56,7 @@ $("body").click(function (e) {
     if (c === 0) {
       $(".__intro").fadeOut(4000);
       $("*").css("cursor", "wait");
+      
       setTimeout(
         function () {
           $(".s").css("opacity", 1);
@@ -58,28 +68,34 @@ $("body").click(function (e) {
             $(this).text(love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s).fadeIn(2000);
           });
 
+          $('#msg').scrollTop(0);
           
           $(".grad").css("opacity", "1");
-          $("#msg").css("height", "60vh");
-          
 
           if ((love[r].c).length <= 80) {
             $("p.isaid").css("font-size", "2em");
-            $("p.isaid").css("letter-spacing", "-3px");
-            $("p.isaid").css("line-height", "80%;");
-          } else if ((love[r].c).length <= 80) {
-            $("p.isaid").css("font-size", "1.8em");
-            $("p.isaid").css("letter-spacing", "-2.2px");
-          } else if ((love[r].c).length <= 400) {
-            $("p.isaid").css("font-size", "1.6em");
-            $("p.isaid").css("letter-spacing", "-1.6px");
-          } else if ((love[r].c).length <= 1200) {
-            $("p.isaid").css("font-size", "1.2em");
             $("p.isaid").css("letter-spacing", "-1px");
-          } else {
+            $("p.isaid").css("line-height", "80%;");
+          } else if ((love[r].c).length <= 100) {
+            $("p.isaid").css("font-size", "1.8em");
+            $("p.isaid").css("letter-spacing", "-1.2px");
+          } else if ((love[r].c).length <= 200) {
+            $("p.isaid").css("font-size", "1.6em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          } else if ((love[r].c).length <= 400) {
+            $("p.isaid").css("font-size", "1.3em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          } else if ((love[r].c).length <= 800) {
+            $("p.isaid").css("font-size", "1.2em");
+            $("p.isaid").css("letter-spacing", "0px");
+          } else if ((love[r].c).length <= 1200) {
             $("p.isaid").css("font-size", "1em");
+            $("p.isaid").css("letter-spacing", "0px");
+          } else {
+            $("p.isaid").css("font-size", ".8em");
             $("p.isaid").css("letter-spacing", "-.5px");
           }
+      
 
           $("p.isaid").text(love[r].c);
           player.loadVideoById(love[r].v);
@@ -133,23 +149,34 @@ function thesoundof(r) {
       $("#player").css("opacity", 1);
       player.loadVideoById(love[r].v);
 
-      if ((love[r].c).length <= 80) {
-        $("p.isaid").css("font-size", "2em");
-        $("p.isaid").css("letter-spacing", "-3px");
-        $("p.isaid").css("line-height", "80%;");
-      } else if ((love[r].c).length <= 80) {
-        $("p.isaid").css("font-size", "1.8em");
-        $("p.isaid").css("letter-spacing", "-2.2px");
-      } else if ((love[r].c).length <= 400) {
-        $("p.isaid").css("font-size", "1.6em");
-        $("p.isaid").css("letter-spacing", "-1.6px");
-      } else if ((love[r].c).length <= 1200) {
-        $("p.isaid").css("font-size", "1.2em");
-        $("p.isaid").css("letter-spacing", "-1px");
-      } else {
-        $("p.isaid").css("font-size", "1em");
-        $("p.isaid").css("letter-spacing", "-.5px");
-      }
+      
+      $('#msg').scrollTop(0);
+        
+
+          if ((love[r].c).length <= 80) {
+            $("p.isaid").css("font-size", "2em");
+            $("p.isaid").css("letter-spacing", "-1px");
+            $("p.isaid").css("line-height", "80%;");
+          } else if ((love[r].c).length <= 100) {
+            $("p.isaid").css("font-size", "1.8em");
+            $("p.isaid").css("letter-spacing", "-1.2px");
+          } else if ((love[r].c).length <= 200) {
+            $("p.isaid").css("font-size", "1.6em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          } else if ((love[r].c).length <= 400) {
+            $("p.isaid").css("font-size", "1.3em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          } else if ((love[r].c).length <= 800) {
+            $("p.isaid").css("font-size", "1.2em");
+            $("p.isaid").css("letter-spacing", "0px");
+          } else if ((love[r].c).length <= 1200) {
+            $("p.isaid").css("font-size", "1em");
+            $("p.isaid").css("letter-spacing", "0px");
+          } else {
+            $("p.isaid").css("font-size", ".8em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          }
+      
 
     }, 1500);
 
