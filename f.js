@@ -45,15 +45,87 @@ $(".__intro p").css("color", "#000000");
             }, 1500);
 
 
-$("body").click(function (e) {
+function thesoundof(r) {
+  //  $(love[r].c).hide().prependTo("p.isaid").fadeIn(4000);
+  $("*").css("cursor", "wait");
+
+  $("p.isaid").fadeOut(function () {
+    $(this).text(love[r].c).fadeIn(2000);
+  });
+
+  $("div._s").fadeOut(function () {
+    $(this).text(love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s).fadeIn(2000);
+  });
+
+  $("#player").css("opacity", 0);
+  $("#cover").css("opacity", 1);
+  $("body").css("pointer-events", "none !important");
+
+
+  setTimeout(
+    function () {
+      $("#player").css("opacity", 1);
+      player.loadVideoById(love[r].v);
+
+      
+      $('#msg').scrollTop(0);
+        
+
+          if ((love[r].c).length <= 80) {
+            $("p.isaid").css("font-size", "2em");
+            $("p.isaid").css("letter-spacing", "-1px");
+            $("p.isaid").css("line-height", "80%;");
+          } else if ((love[r].c).length <= 100) {
+            $("p.isaid").css("font-size", "1.8em");
+            $("p.isaid").css("letter-spacing", "-1.2px");
+          } else if ((love[r].c).length <= 200) {
+            $("p.isaid").css("font-size", "1.6em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          } else if ((love[r].c).length <= 400) {
+            $("p.isaid").css("font-size", "1.3em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          } else if ((love[r].c).length <= 800) {
+            $("p.isaid").css("font-size", "1.2em");
+            $("p.isaid").css("letter-spacing", "0px");
+          } else if ((love[r].c).length <= 1200) {
+            $("p.isaid").css("font-size", "1em");
+            $("p.isaid").css("letter-spacing", "0px");
+          } else {
+            $("p.isaid").css("font-size", ".8em");
+            $("p.isaid").css("letter-spacing", "-.5px");
+          }
+      
+
+    }, 1500);
+
+
+  setTimeout(
+    function () {
+      $(".grad").css("opacity", "1");
+      $("#cover").css("opacity", 0);
+    }, 2500);
+
+
+  // cursor back
+  setTimeout(
+    function () {
+      $("body").css("pointer-events", "auto");
+      $("*").css("cursor", "pointer");
+    }, 3200);
+}
+
+
+$("#msg").click(function (e) {
 
   if (e.button == 0) {
 
     let r = Math.floor(Math.random() * (love.length));
 
-
     // first click
     if (c === 0) {
+      
+      
+      $("#controls").fadeIn(3000).css("display", "flex");
       $(".__intro").fadeOut(4000);
       $("*").css("cursor", "wait");
       
@@ -127,75 +199,37 @@ $('body').keyup(function (e) {
   }
 });
 
-function thesoundof(r) {
-  //  $(love[r].c).hide().prependTo("p.isaid").fadeIn(4000);
-  $("*").css("cursor", "wait");
 
-  $("p.isaid").fadeOut(function () {
-    $(this).text(love[r].c).fadeIn(2000);
+// teeny commands
+
+
+function _togglebw(){
+  $("#bw").fadeToggle()
+}
+
+function _viewall(){
+  $("#msgs").fadeToggle();
+}
+
+function _about(){
+  // redirect to eiii
+  window.open("https://eiii-zine.nl/thecommentsection/submission2.html?id=2", "_blank");
+}
+
+
+// load all messages once
+loadmsgs();
+
+function loadmsgs(){
+  
+  for(let i = 0; i < love.length; i++){
+    $("#msgs .wrapper").append("<p data-comment='" + i + "'>" + love[i].c + "</p>");
+  }
+  
+  $(document).on('click', "#msgs p" , function() {
+    $("#msgs").fadeOut();
+    thesoundof( $(this).attr("data-comment") );
+    
   });
-
-  $("div._s").fadeOut(function () {
-    $(this).text(love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s + " · " + love[r].s).fadeIn(2000);
-  });
-
-  $("#player").css("opacity", 0);
-  $("#cover").css("opacity", 1);
-  $("body").css("pointer-events", "none !important");
-
-
-  setTimeout(
-    function () {
-      $("#player").css("opacity", 1);
-      player.loadVideoById(love[r].v);
-
-      
-      $('#msg').scrollTop(0);
-        
-
-          if ((love[r].c).length <= 80) {
-            $("p.isaid").css("font-size", "2em");
-            $("p.isaid").css("letter-spacing", "-1px");
-            $("p.isaid").css("line-height", "80%;");
-          } else if ((love[r].c).length <= 100) {
-            $("p.isaid").css("font-size", "1.8em");
-            $("p.isaid").css("letter-spacing", "-1.2px");
-          } else if ((love[r].c).length <= 200) {
-            $("p.isaid").css("font-size", "1.6em");
-            $("p.isaid").css("letter-spacing", "-.5px");
-          } else if ((love[r].c).length <= 400) {
-            $("p.isaid").css("font-size", "1.3em");
-            $("p.isaid").css("letter-spacing", "-.5px");
-          } else if ((love[r].c).length <= 800) {
-            $("p.isaid").css("font-size", "1.2em");
-            $("p.isaid").css("letter-spacing", "0px");
-          } else if ((love[r].c).length <= 1200) {
-            $("p.isaid").css("font-size", "1em");
-            $("p.isaid").css("letter-spacing", "0px");
-          } else {
-            $("p.isaid").css("font-size", ".8em");
-            $("p.isaid").css("letter-spacing", "-.5px");
-          }
-      
-
-    }, 1500);
-
-
-  setTimeout(
-    function () {
-      $(".grad").css("opacity", "1");
-      $("#cover").css("opacity", 0);
-    }, 2500);
-
-
-  // cursor back
-  setTimeout(
-    function () {
-      $("body").css("pointer-events", "auto");
-      $("*").css("cursor", "pointer");
-    }, 3200);
-
-
-  // adjust font size based on length
-  console.log((love[r].c).length);
+  
 }

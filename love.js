@@ -220,8 +220,7 @@ She's not just another face. I'm scared I'll stop feeling this way and hurt her.
   },
   {
     "c": `my crush kissed me last night and literally this song came through my head because he was like " and what if i tell you that i really wanna kiss you " and it was so cute i just can't ughhhhhhh
-be happy with me pls
-`,
+be happy with me pls`,
     "v": "WMrU3f5QQR8",
     "s": "How Do I Tell A Girl I Want To Kiss Her? – Modern Baseball",
     "t": "romantic"
