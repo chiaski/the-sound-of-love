@@ -35,6 +35,7 @@ function onPlayerStateChange(event) {
 let c = 0;
 
 console.log(love.length);
+$("._count").text(love.length);
 
 $("h1").fadeIn(3000);
 
@@ -114,6 +115,9 @@ function thesoundof(r) {
     }, 3200);
 }
 
+$("#msgs").click(function (e) {
+  $("#msgs").fadeOut();
+});
 
 $("#msg").click(function (e) {
 

@@ -99,14 +99,27 @@ body {
   background: #fff;
   overflow-x: hidden;
   overflow-y: scroll;
-  z-index:999;
+  z-index:9;
   display: none;
+}
+
+#msgs h1{
+  display: block;
+  width: 100%;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  letter-spacing: -.5px;
+  padding: .5em 1em;
+  margin: 0;
+  font-size:5vw;
+  opacity: 0.5;
+  text-align: center;
 }
 
 #msgs .wrapper{
   width: 100%;
   height: auto;
-  padding:1em;
+  padding:0 1em;
   box-sizing:border-box;
   column-width: 280px;
   column-count:6;
@@ -119,10 +132,18 @@ body {
   height: auto;
   width: 100%;
   font-size: .8em;
-  line-height: 120%;
-  letter-spacing: -.25px;
-  -webkit-transition: all 0.8s ease-in-out;
-  transition: all 0.8s ease-in-out;
+  line-height: 140%;
+  letter-spacing: -.1px;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  white-space: pre-wrap;
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin: 1em;
+  box-sizing: border-box;
+  opacity: 0.8;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont;
+  
 }
 
 #msgs .wrapper:hover p:not(:hover){
@@ -145,8 +166,8 @@ body {
   left: 0;
   height: 80vh;
   width: 100vw;
-  z-index: 99;
-  opacity: 0;
+  z-index: 999;
+  opacity: 1;
   /*  outline: 1px solid blue;*/
   pointer-events: none !important;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
