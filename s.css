@@ -123,7 +123,8 @@ body {
   box-sizing:border-box;
   column-width: 280px;
   column-count:6;
-  column-gap: 1em;
+  column-gap: 0;
+  margin: 0 auto;
 }
 
 #msgs .wrapper p{
@@ -137,9 +138,8 @@ body {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   white-space: pre-wrap;
-  border: 1px solid #ddd;
   padding: 1em;
-  margin: 1em;
+  margin: -.25em 0;
   box-sizing: border-box;
   opacity: 0.8;
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
@@ -320,7 +320,7 @@ font-size: 2em;
 .s {
   position: fixed;
   width: 100vw;
-  z-index: 999;
+  z-index: 9;
   pointer-events:none;
   background: #fff;
   height: 30px;
