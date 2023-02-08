@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'ITC Garamond Std Lt Cond';
+    src: url('ITCGaramondStd-LtCond.woff2') format('woff2'),
+        url('ITCGaramondStd-LtCond.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Garamond Std Lt Cond';
+    src: url('ITCGaramondStd-LtCondIta.woff2') format('woff2'),
+        url('ITCGaramondStd-LtCondIta.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+

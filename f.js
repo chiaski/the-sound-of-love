@@ -148,29 +148,29 @@ $("#msg").click(function (e) {
           
           $(".grad").css("opacity", "1");
 
-          if ((love[r].c).length <= 80) {
-            $("p.isaid").css("font-size", "2em");
-            $("p.isaid").css("letter-spacing", "-1px");
-            $("p.isaid").css("line-height", "80%;");
-          } else if ((love[r].c).length <= 100) {
-            $("p.isaid").css("font-size", "1.8em");
-            $("p.isaid").css("letter-spacing", "-1.2px");
-          } else if ((love[r].c).length <= 200) {
-            $("p.isaid").css("font-size", "1.6em");
-            $("p.isaid").css("letter-spacing", "-.5px");
-          } else if ((love[r].c).length <= 400) {
-            $("p.isaid").css("font-size", "1.3em");
-            $("p.isaid").css("letter-spacing", "-.5px");
-          } else if ((love[r].c).length <= 800) {
-            $("p.isaid").css("font-size", "1.2em");
-            $("p.isaid").css("letter-spacing", "0px");
-          } else if ((love[r].c).length <= 1200) {
-            $("p.isaid").css("font-size", "1em");
-            $("p.isaid").css("letter-spacing", "0px");
-          } else {
-            $("p.isaid").css("font-size", ".8em");
-            $("p.isaid").css("letter-spacing", "-.5px");
-          }
+//          if ((love[r].c).length <= 80) {
+//            $("p.isaid").css("font-size", "2em");
+//            $("p.isaid").css("letter-spacing", "-1px");
+//            $("p.isaid").css("line-height", "80%;");
+//          } else if ((love[r].c).length <= 100) {
+//            $("p.isaid").css("font-size", "1.8em");
+//            $("p.isaid").css("letter-spacing", "-1.2px");
+//          } else if ((love[r].c).length <= 200) {
+//            $("p.isaid").css("font-size", "1.6em");
+//            $("p.isaid").css("letter-spacing", "-.5px");
+//          } else if ((love[r].c).length <= 400) {
+//            $("p.isaid").css("font-size", "1.3em");
+//            $("p.isaid").css("letter-spacing", "-.5px");
+//          } else if ((love[r].c).length <= 800) {
+//            $("p.isaid").css("font-size", "1.2em");
+//            $("p.isaid").css("letter-spacing", "0px");
+//          } else if ((love[r].c).length <= 1200) {
+//            $("p.isaid").css("font-size", "1em");
+//            $("p.isaid").css("letter-spacing", "0px");
+//          } else {
+//            $("p.isaid").css("font-size", ".8em");
+//            $("p.isaid").css("letter-spacing", "-.5px");
+//          }
       
 
           $("p.isaid").text(love[r].c);

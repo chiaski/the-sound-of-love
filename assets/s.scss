@@ -23,6 +23,10 @@ body {
   background: #fff;
   overflow: hidden;
   cursor: pointer;
+    font-family: 'ITC Garamond Std Lt Cond';
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #bw{
@@ -103,7 +107,6 @@ body {
 #controls a{
   font-size: .7em;
   opacity: 0.4;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont;
 }
 
 #controls a:hover{
@@ -127,7 +130,6 @@ body {
 #msgs h1{
   display: block;
   width: 100%;
-  font-family: "Times New Roman";
   font-weight: normal;
   letter-spacing: -.5px;
   padding: .5em 1em;
@@ -185,22 +187,15 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  height: 80vh;
+  height: 100vh;
   width: 100vw;
   z-index: 999;
   opacity: 1;
   /*  outline: 1px solid blue;*/
   pointer-events: none !important;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
+  opacity: 0.3;
 }
-
-
-#msg {
-  font-family: "Times New Roman";
-  font-size: 1.5em;
-  font-weight: normal;
-}
-
 
 #msg h1 {
   font-weight: normal;
@@ -212,42 +207,42 @@ body {
   top: 0;
   left: 0;
   height: 100vh;
-  max-height: calc(100vh - 30vw);
+  max-height: calc(100vh - 10vw);
   width: 100%;
-  padding: calc(40px + 1vw);
+//  padding: calc(40px + 1vw);
+  padding: 0;
   font-size: 2.4em;
   box-sizing: border-box;
   text-align: center;
+  vertical-align: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   overflow-y: scroll;
-  vertical-align: center;
   align-items: center;
   align-content: center;
+  background: red;
+  
 }
 
 
 #msg .__intro h1 {
-  width: 100%;
-font-size: 2em;
+  width: 90%;
+font-size: 3.2em;
   text-align: center;
   padding: 0;
-  margin: .25em auto;
-  margin-top: -1em;
-  max-width: 580px;
+  margin: .15em auto;
+  max-width: 700px;
   line-height: 90%;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 #msg .__intro p {
-  font-size: .3em;
+  font-size: .5rem;
   padding: 0;
-  margin: .5em;
-  text-transform: uppercase;
+  margin: .25em .5em;
   line-height: 120%;
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
-  
   
   -webkit-transition: all 4s ease-in-out;
   -moz-transition: all 4s ease-in-out;
@@ -258,22 +253,24 @@ font-size: 2em;
 
 
 #msg .__intro {
-  margin-top: 20vh;
+  margin-top: 15vh;
   text-align: center;
 /*  display: none;*/
 }
 
 
 #msg .isaid {
+  width: 100%;
   height: 100%;
   margin: 0;
-  padding: 0;
   white-space: pre-line;
   letter-spacing: 0;
   pointer-events: none;
   line-height: 100%;
-  text-align: center;
+  text-align: left;
   display: none;
+  padding:2em;
+margin-top: 140px;
 }
 
 
@@ -317,7 +314,7 @@ font-size: 2em;
   }
   #msg,
   .grad {
-    height: 100vh;
+    display: none;
   }
   
   .grad{

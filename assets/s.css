@@ -1,44 +1,41 @@
 @font-face {
-    font-family: 'ITC Garamond Std Lt Cond';
-    src: url('ITCGaramondStd-LtCond.woff2') format('woff2'),
-        url('ITCGaramondStd-LtCond.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: "ITC Garamond Std Lt Cond";
+  src: url("ITCGaramondStd-LtCond.woff2") format("woff2"), url("ITCGaramondStd-LtCond.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
-
 @font-face {
-    font-family: 'ITC Garamond Std Lt Cond';
-    src: url('ITCGaramondStd-LtCondIta.woff2') format('woff2'),
-        url('ITCGaramondStd-LtCondIta.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
+  font-family: "ITC Garamond Std Lt Cond";
+  src: url("ITCGaramondStd-LtCondIta.woff2") format("woff2"), url("ITCGaramondStd-LtCondIta.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
 }
-
-
-
-
 body {
   background: #fff;
   overflow: hidden;
   cursor: pointer;
+  font-family: "ITC Garamond Std Lt Cond";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-#bw{
+#bw {
   position: fixed;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   width: 100vw;
   height: 100vh;
-  background:#fff;
+  background: #fff;
   z-index: 999999999999;
   mix-blend-mode: difference;
   pointer-events: none;
   display: none;
-  
 }
 
-#bw, .grad{
+#bw, .grad {
   -webkit-transition: all 2s ease-in-out;
   -moz-transition: all 2s ease-in-out;
   -ms-transition: all 2s ease-in-out;
@@ -70,13 +67,12 @@ body {
   left: 50%;
   width: 40vw;
   height: 40vw;
-  margin-left:-20vw;
+  margin-left: -20vw;
   z-index: 1;
   border-radius: 100%;
   -webkit-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
   transition-delay: 0.2s;
-
   -webkit-animation: spin 20s linear infinite;
   -moz-animation: spin 20s linear infinite;
   -ms-animation: spin 20s linear infinite;
@@ -85,33 +81,32 @@ body {
   opacity: 0;
 }
 
-#controls{
+#controls {
   position: fixed;
   width: 100vw;
   height: 30px;
   bottom: 0;
   left: 0;
-  background:#fff;
-  z-index:999999;
+  background: #fff;
+  z-index: 999999;
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
-  padding: .5em 1em;
+  padding: 0.5em 1em;
   display: none;
 }
 
-#controls a{
-  font-size: .7em;
+#controls a {
+  font-size: 0.7em;
   opacity: 0.4;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont;
 }
 
-#controls a:hover{
+#controls a:hover {
   cursor: pointer;
   opacity: 1;
 }
 
-#msgs{
+#msgs {
   position: absolute;
   top: 0;
   left: 0;
@@ -120,87 +115,76 @@ body {
   background: #fff;
   overflow-x: hidden;
   overflow-y: scroll;
-  z-index:9;
+  z-index: 9;
   display: none;
 }
 
-#msgs h1{
+#msgs h1 {
   display: block;
   width: 100%;
-  font-family: "Times New Roman";
   font-weight: normal;
-  letter-spacing: -.5px;
-  padding: .5em 1em;
+  letter-spacing: -0.5px;
+  padding: 0.5em 1em;
   margin: 0;
-  font-size:5vw;
+  font-size: 5vw;
   opacity: 0.5;
   text-align: center;
 }
 
-#msgs .wrapper{
+#msgs .wrapper {
   width: 100%;
   height: auto;
-  padding:0 1em;
-  box-sizing:border-box;
+  padding: 0 1em;
+  box-sizing: border-box;
   column-width: 280px;
-  column-count:6;
+  column-count: 6;
   column-gap: 0;
   margin: 0 auto;
 }
 
-#msgs .wrapper p{
-  display:inline-block;
+#msgs .wrapper p {
+  display: inline-block;
   vertical-align: top;
   height: auto;
   width: 100%;
-  font-size: .8em;
+  font-size: 0.8em;
   line-height: 140%;
-  letter-spacing: -.1px;
+  letter-spacing: -0.1px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   white-space: pre-wrap;
   padding: 1em;
-  margin: -.25em 0;
+  margin: -0.25em 0;
   box-sizing: border-box;
   opacity: 0.8;
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
-  
 }
 
-#msgs .wrapper:hover p:not(:hover){
+#msgs .wrapper:hover p:not(:hover) {
   opacity: 0.5;
 }
 
 #player iframe {
   border-radius: 100%;
-
 }
 
 #player:hover {
   bottom: -50px;
 }
 
-
 .grad {
   position: fixed;
   top: 0;
   left: 0;
-  height: 80vh;
+  height: 100vh;
   width: 100vw;
   z-index: 999;
   opacity: 1;
   /*  outline: 1px solid blue;*/
   pointer-events: none !important;
   background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
+  opacity: 0.3;
 }
-
-
-#msg {
-  font-family: "Times New Roman";
-  font-size: 1.5em;
-  font-weight: normal;
-}
-
 
 #msg h1 {
   font-weight: normal;
@@ -212,43 +196,39 @@ body {
   top: 0;
   left: 0;
   height: 100vh;
-  max-height: calc(100vh - 30vw);
+  max-height: calc(100vh - 10vw);
   width: 100%;
-  padding: calc(40px + 1vw);
+  padding: 0;
   font-size: 2.4em;
   box-sizing: border-box;
   text-align: center;
+  vertical-align: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   overflow-y: scroll;
-  vertical-align: center;
   align-items: center;
   align-content: center;
+  background: red;
 }
 
-
 #msg .__intro h1 {
-  width: 100%;
-font-size: 2em;
+  width: 90%;
+  font-size: 3.2em;
   text-align: center;
   padding: 0;
-  margin: .25em auto;
-  margin-top: -1em;
-  max-width: 580px;
+  margin: 0.15em auto;
+  max-width: 700px;
   line-height: 90%;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 #msg .__intro p {
-  font-size: .3em;
+  font-size: 0.5rem;
   padding: 0;
-  margin: .5em;
-  text-transform: uppercase;
+  margin: 0.25em 0.5em;
   line-height: 120%;
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
-  
-  
   -webkit-transition: all 4s ease-in-out;
   -moz-transition: all 4s ease-in-out;
   -ms-transition: all 4s ease-in-out;
@@ -256,75 +236,71 @@ font-size: 2em;
   transition: all 4s ease-in-out;
 }
 
-
 #msg .__intro {
-  margin-top: 20vh;
+  margin-top: 15vh;
   text-align: center;
-/*  display: none;*/
+  /*  display: none;*/
 }
 
-
 #msg .isaid {
+  width: 100%;
   height: 100%;
   margin: 0;
-  padding: 0;
   white-space: pre-line;
   letter-spacing: 0;
   pointer-events: none;
   line-height: 100%;
-  text-align: center;
+  text-align: left;
   display: none;
+  padding: 2em;
+  margin-top: 140px;
 }
 
-
 @media only screen and (max-width: 600px) {
-  
-  #msg .__intro h1{
+  #msg .__intro h1 {
     font-size: 2.2em;
     letter-spacing: -2px;
   }
-  
-  #msg{
+
+  #msg {
     font-size: 1.5em;
     padding-bottom: 10vh;
   }
-  
 
-  .track{
+  .track {
     transform: none !important;
     animation: none !important;
   }
-  
-@keyframes marquee {
-  from {
-    transform: translateX(0);
-  }
 
-  to {
-    transform: translateX(0);
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(0);
+    }
   }
-}
-
   .s.__left,
-  .s.__right {
+.s.__right {
     display: none;
   }
 
-  #msg{
+  #msg {
     line-height: 90%;
     height: 70vh;
     max-height: calc(90vh - 25vw);
   }
+
   #msg,
+.grad {
+    display: none;
+  }
+
   .grad {
-    height: 100vh;
+    pointer-events: none;
   }
-  
-  .grad{
-    pointer-events: none; 
-  }
-  
-  #msg .isaid{
+
+  #msg .isaid {
     height: 100%;
   }
 
@@ -334,15 +310,12 @@ font-size: 2em;
     bottom: -15vw;
     margin-left: -30vw;
   }
-
 }
-
-
 .s {
   position: fixed;
   width: 100vw;
   z-index: 9;
-  pointer-events:none;
+  pointer-events: none;
   background: #fff;
   height: 30px;
   text-align: center;
@@ -351,25 +324,21 @@ font-size: 2em;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: .6em;
+  font-size: 0.6em;
   overflow: hidden;
   /*  mix-blend-mode: difference;*/
   font-family: system-ui, -apple-system, BlinkMacSystemFont;
-
-
   -webkit-transition: all 0.8s ease-in-out;
   -moz-transition: all 0.8s ease-in-out;
   -ms-transition: all 0.8s ease-in-out;
   -o-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
-  
   opacity: 0;
 }
 
 .s * {
   overflow: hidden;
 }
-
 
 .s.__top {
   top: 0;
@@ -396,8 +365,6 @@ font-size: 2em;
 }
 
 /* MARQUEE */
-
-
 .marquee {
   position: relative;
   width: 100vw;
@@ -405,7 +372,6 @@ font-size: 2em;
   height: 40px;
   overflow-x: hidden;
 }
-
 
 .track {
   border: 0;
@@ -420,15 +386,11 @@ font-size: 2em;
   from {
     transform: translateX(0);
   }
-
   to {
     transform: translateX(-24.8%);
   }
 }
-
-
 /* SPIN */
-
 @keyframes spin {
   from {
     -ms-transform: rotate(0deg);
@@ -437,7 +399,6 @@ font-size: 2em;
     -o-transform: rotate(0deg);
     transform: rotate(0deg);
   }
-
   to {
     -ms-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
@@ -446,26 +407,22 @@ font-size: 2em;
     transform: rotate(360deg);
   }
 }
-
 /* SCROLLBAR */
-
-
 ::-webkit-scrollbar {
   width: 10px;
 }
 
-
 ::-webkit-scrollbar-track {
   background: none;
 }
-
 
 ::-webkit-scrollbar-thumb {
   background: #000;
   border: 3px solid #fff;
 }
 
-
 ::-webkit-scrollbar-thumb:hover {
   background: #000;
 }
+
+/*# sourceMappingURL=s.css.map */
